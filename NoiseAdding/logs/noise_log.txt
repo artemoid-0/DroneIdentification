@@ -1,0 +1,1511 @@
+[2025-07-25 03:51:59] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_+00dB
+[2025-07-25 03:51:59] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_+20dB
+[2025-07-25 03:51:59] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_-20dB
+[2025-07-25 03:51:59] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win512
+[2025-07-25 03:52:18] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_+00dB in 18.78s
+[2025-07-25 03:52:18] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_+00dB
+[2025-07-25 03:52:18] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_+20dB in 18.95s
+[2025-07-25 03:52:18] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_+20dB
+[2025-07-25 03:52:18] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_-20dB in 19.38s
+[2025-07-25 03:52:18] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_-20dB
+[2025-07-25 03:52:23] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win512 in 24.06s
+[2025-07-25 03:52:23] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win512
+[2025-07-25 03:53:04] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_-20dB in 45.68s
+[2025-07-25 03:53:05] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_+00dB in 46.76s
+[2025-07-25 03:53:05] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_+20dB in 46.65s
+[2025-07-25 03:53:05] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win512 in 41.78s
+[2025-07-25 03:53:06] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_-15dB
+[2025-07-25 03:53:06] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_+05dB
+[2025-07-25 03:53:06] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win64
+[2025-07-25 03:53:06] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win1024
+[2025-07-25 03:53:14] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_-15dB in 8.25s
+[2025-07-25 03:53:14] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_-15dB
+[2025-07-25 03:53:14] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_+05dB in 8.17s
+[2025-07-25 03:53:14] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_+05dB
+[2025-07-25 03:53:18] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win64 in 12.36s
+[2025-07-25 03:53:18] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win64
+[2025-07-25 03:53:29] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win1024 in 22.59s
+[2025-07-25 03:53:29] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win1024
+[2025-07-25 03:53:53] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_-15dB in 38.97s
+[2025-07-25 03:53:53] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_+05dB in 39.26s
+[2025-07-25 03:53:54] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_-10dB
+[2025-07-25 03:53:55] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_+10dB
+[2025-07-25 03:53:58] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win64 in 39.32s
+[2025-07-25 03:53:59] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win128
+[2025-07-25 03:54:01] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_-10dB in 6.69s
+[2025-07-25 03:54:01] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_-10dB
+[2025-07-25 03:54:01] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_+10dB in 6.88s
+[2025-07-25 03:54:01] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_+10dB
+[2025-07-25 03:54:08] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win1024 in 38.96s
+[2025-07-25 03:54:09] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win2048
+[2025-07-25 03:54:11] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win128 in 11.84s
+[2025-07-25 03:54:11] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win128
+[2025-07-25 03:54:39] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_-10dB in 38.39s
+[2025-07-25 03:54:40] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_+10dB in 38.48s
+[2025-07-25 03:54:40] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_-05dB
+[2025-07-25 03:54:41] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_SNR_+15dB
+[2025-07-25 03:54:44] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win2048 in 34.51s
+[2025-07-25 03:54:44] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win2048
+[2025-07-25 03:54:47] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_-05dB in 7.05s
+[2025-07-25 03:54:47] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_-05dB
+[2025-07-25 03:54:48] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_SNR_+15dB in 7.01s
+[2025-07-25 03:54:48] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_SNR_+15dB
+[2025-07-25 03:54:49] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win128 in 38.78s
+[2025-07-25 03:54:51] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win256
+[2025-07-25 03:55:03] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-20dB_win256 in 12.29s
+[2025-07-25 03:55:03] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win256
+[2025-07-25 03:55:22] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win2048 in 38.80s
+[2025-07-25 03:55:24] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win64
+[2025-07-25 03:55:26] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_-05dB in 38.71s
+[2025-07-25 03:55:27] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_SNR_+15dB in 38.89s
+[2025-07-25 03:55:28] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win128
+[2025-07-25 03:55:28] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win2048
+[2025-07-25 03:55:35] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win64 in 10.96s
+[2025-07-25 03:55:35] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win64
+[2025-07-25 03:55:38] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win128 in 10.88s
+[2025-07-25 03:55:38] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win128
+[2025-07-25 03:55:42] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-20dB_win256 in 38.83s
+[2025-07-25 03:55:43] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win512
+[2025-07-25 03:55:59] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win512 in 16.25s
+[2025-07-25 03:55:59] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win512
+[2025-07-25 03:56:03] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win2048 in 34.40s
+[2025-07-25 03:56:03] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win2048
+[2025-07-25 03:56:11] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win64 in 36.59s
+[2025-07-25 03:56:12] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win128
+[2025-07-25 03:56:16] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win128 in 37.29s
+[2025-07-25 03:56:17] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win256
+[2025-07-25 03:56:23] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win128 in 10.95s
+[2025-07-25 03:56:23] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win128
+[2025-07-25 03:56:29] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win256 in 12.73s
+[2025-07-25 03:56:29] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win256
+[2025-07-25 03:56:38] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win512 in 38.63s
+[2025-07-25 03:56:39] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win1024
+[2025-07-25 03:56:41] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win2048 in 38.22s
+[2025-07-25 03:56:42] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win64
+[2025-07-25 03:56:52] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win64 in 10.56s
+[2025-07-25 03:56:52] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win64
+[2025-07-25 03:56:59] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win1024 in 20.04s
+[2025-07-25 03:56:59] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win1024
+[2025-07-25 03:57:01] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win128 in 37.87s
+[2025-07-25 03:57:02] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win256
+[2025-07-25 03:57:08] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win256 in 38.14s
+[2025-07-25 03:57:09] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win512
+[2025-07-25 03:57:14] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win256 in 12.20s
+[2025-07-25 03:57:14] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win256
+[2025-07-25 03:57:25] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win512 in 16.80s
+[2025-07-25 03:57:25] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win512
+[2025-07-25 03:57:32] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win64 in 39.84s
+[2025-07-25 03:57:33] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win128
+[2025-07-25 03:57:38] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win1024 in 39.61s
+[2025-07-25 03:57:39] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win2048
+[2025-07-25 03:57:45] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win128 in 11.33s
+[2025-07-25 03:57:45] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win128
+[2025-07-25 03:57:54] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win256 in 39.02s
+[2025-07-25 03:57:54] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win512
+[2025-07-25 03:58:03] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win512 in 37.20s
+[2025-07-25 03:58:03] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win1024
+[2025-07-25 03:58:09] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win512 in 14.16s
+[2025-07-25 03:58:09] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win512
+[2025-07-25 03:58:14] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win2048 in 34.67s
+[2025-07-25 03:58:14] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win2048
+[2025-07-25 03:58:20] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win128 in 35.60s
+[2025-07-25 03:58:21] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win256
+[2025-07-25 03:58:24] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-15dB_win1024 in 20.04s
+[2025-07-25 03:58:24] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win1024
+[2025-07-25 03:58:35] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-10dB_win256 in 13.58s
+[2025-07-25 03:58:35] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win256
+[2025-07-25 03:58:50] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win512 in 41.41s
+[2025-07-25 03:58:51] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win1024
+[2025-07-25 03:58:57] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win2048 in 42.68s
+[2025-07-25 03:58:58] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win64
+[2025-07-25 03:59:04] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-15dB_win1024 in 40.61s
+[2025-07-25 03:59:05] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win2048
+[2025-07-25 03:59:08] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win64 in 9.96s
+[2025-07-25 03:59:08] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win64
+[2025-07-25 03:59:11] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win1024 in 19.66s
+[2025-07-25 03:59:11] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win1024
+[2025-07-25 03:59:14] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-10dB_win256 in 39.00s
+[2025-07-25 03:59:15] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win512
+[2025-07-25 03:59:30] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win512 in 14.59s
+[2025-07-25 03:59:30] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win512
+[2025-07-25 03:59:36] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_-05dB_win2048 in 30.43s
+[2025-07-25 03:59:36] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win2048
+[2025-07-25 03:59:45] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win64 in 36.87s
+[2025-07-25 03:59:46] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win128
+[2025-07-25 03:59:48] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win1024 in 37.41s
+[2025-07-25 03:59:49] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win2048
+[2025-07-25 03:59:57] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win128 in 11.20s
+[2025-07-25 03:59:57] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win128
+[2025-07-25 04:00:08] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win512 in 38.05s
+[2025-07-25 04:00:09] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:00:13] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_-05dB_win2048 in 37.29s
+[2025-07-25 04:00:14] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win64
+[2025-07-25 04:00:23] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win2048 in 33.92s
+[2025-07-25 04:00:23] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:00:26] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win64 in 12.20s
+[2025-07-25 04:00:26] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win64
+[2025-07-25 04:00:31] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win1024 in 22.31s
+[2025-07-25 04:00:31] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:00:36] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win128 in 38.85s
+[2025-07-25 04:00:37] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win256
+[2025-07-25 04:00:51] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win256 in 14.07s
+[2025-07-25 04:00:51] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win256
+[2025-07-25 04:01:04] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win2048 in 40.39s
+[2025-07-25 04:01:05] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win64
+[2025-07-25 04:01:07] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win64 in 41.34s
+[2025-07-25 04:01:09] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win128
+[2025-07-25 04:01:12] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win1024 in 40.67s
+[2025-07-25 04:01:13] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:01:16] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win64 in 11.14s
+[2025-07-25 04:01:16] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win64
+[2025-07-25 04:01:19] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win128 in 10.73s
+[2025-07-25 04:01:19] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win128
+[2025-07-25 04:01:30] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win256 in 38.56s
+[2025-07-25 04:01:31] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win512
+[2025-07-25 04:01:48] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win512 in 16.61s
+[2025-07-25 04:01:48] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win512
+[2025-07-25 04:01:49] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win2048 in 35.75s
+[2025-07-25 04:01:49] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:01:54] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win64 in 37.97s
+[2025-07-25 04:01:56] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win128
+[2025-07-25 04:01:57] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win128 in 37.63s
+[2025-07-25 04:01:58] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win256
+[2025-07-25 04:02:07] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win128 in 11.47s
+[2025-07-25 04:02:07] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win128
+[2025-07-25 04:02:11] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+00dB_win256 in 12.44s
+[2025-07-25 04:02:11] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win256
+[2025-07-25 04:02:29] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win512 in 40.99s
+[2025-07-25 04:02:30] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:02:30] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win2048 in 41.19s
+[2025-07-25 04:02:31] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win64
+[2025-07-25 04:02:41] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win64 in 9.83s
+[2025-07-25 04:02:41] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win64
+[2025-07-25 04:02:46] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win128 in 39.32s
+[2025-07-25 04:02:47] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win256
+[2025-07-25 04:02:49] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+00dB_win256 in 38.65s
+[2025-07-25 04:02:50] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+05dB_win1024 in 20.71s
+[2025-07-25 04:02:50] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:02:50] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win512
+[2025-07-25 04:02:59] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win256 in 11.82s
+[2025-07-25 04:02:59] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win256
+[2025-07-25 04:03:07] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win512 in 16.11s
+[2025-07-25 04:03:07] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win512
+[2025-07-25 04:03:19] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win64 in 37.99s
+[2025-07-25 04:03:20] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win128
+[2025-07-25 04:03:29] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+05dB_win1024 in 38.15s
+[2025-07-25 04:03:30] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:03:31] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win128 in 10.60s
+[2025-07-25 04:03:31] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win128
+[2025-07-25 04:03:38] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win256 in 38.32s
+[2025-07-25 04:03:39] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win512
+[2025-07-25 04:03:44] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win512 in 37.81s
+[2025-07-25 04:03:45] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:03:53] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win512 in 14.57s
+[2025-07-25 04:03:53] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win512
+[2025-07-25 04:04:01] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win2048 in 31.45s
+[2025-07-25 04:04:01] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:04:05] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win128 in 34.89s
+[2025-07-25 04:04:07] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win256
+[2025-07-25 04:04:07] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win1024 in 21.41s
+[2025-07-25 04:04:07] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:04:19] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win256 in 12.47s
+[2025-07-25 04:04:19] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win256
+[2025-07-25 04:04:31] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win512 in 38.21s
+[2025-07-25 04:04:33] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:04:40] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win2048 in 38.28s
+[2025-07-25 04:04:40] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win64
+[2025-07-25 04:04:45] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win1024 in 38.10s
+[2025-07-25 04:04:46] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:04:51] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win64 in 10.53s
+[2025-07-25 04:04:51] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win64
+[2025-07-25 04:04:52] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win1024 in 19.51s
+[2025-07-25 04:04:52] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:04:57] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win256 in 37.76s
+[2025-07-25 04:04:58] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win512
+[2025-07-25 04:05:12] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win512 in 14.33s
+[2025-07-25 04:05:12] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win512
+[2025-07-25 04:05:20] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+10dB_win2048 in 34.65s
+[2025-07-25 04:05:20] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:05:29] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win64 in 38.16s
+[2025-07-25 04:05:30] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win1024 in 38.03s
+[2025-07-25 04:05:30] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win128
+[2025-07-25 04:05:31] [SpawnPoolWorker-4] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:05:41] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win128 in 11.26s
+[2025-07-25 04:05:41] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win128
+[2025-07-25 04:05:50] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win512 in 37.37s
+[2025-07-25 04:05:51] [SpawnPoolWorker-1] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:05:57] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+10dB_win2048 in 36.47s
+[2025-07-25 04:05:58] [SpawnPoolWorker-2] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win64
+[2025-07-25 04:06:09] [SpawnPoolWorker-4] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win2048 in 37.52s
+[2025-07-25 04:06:09] [SpawnPoolWorker-4] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:06:10] [SpawnPoolWorker-2] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win64 in 12.10s
+[2025-07-25 04:06:10] [SpawnPoolWorker-2] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win64
+[2025-07-25 04:06:13] [SpawnPoolWorker-1] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+15dB_win1024 in 22.03s
+[2025-07-25 04:06:13] [SpawnPoolWorker-1] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:06:19] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win128 in 38.02s
+[2025-07-25 04:06:21] [SpawnPoolWorker-3] Start apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win256
+[2025-07-25 04:06:34] [SpawnPoolWorker-3] Finished apply_noise_profile: pack1_0-1s | AWGN_Local_+20dB_win256 in 12.81s
+[2025-07-25 04:06:34] [SpawnPoolWorker-3] Start generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win256
+[2025-07-25 04:06:48] [SpawnPoolWorker-4] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win2048 in 39.15s
+[2025-07-25 04:06:49] [SpawnPoolWorker-2] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win64 in 38.77s
+[2025-07-25 04:06:51] [SpawnPoolWorker-1] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+15dB_win1024 in 38.52s
+[2025-07-25 04:07:07] [SpawnPoolWorker-3] Finished generate_spectrogram: pack1_0-1s | AWGN_Local_+20dB_win256 in 33.29s
+[2025-07-25 04:07:39] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_+00dB
+[2025-07-25 04:07:39] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win512
+[2025-07-25 04:07:39] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_-20dB
+[2025-07-25 04:07:39] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_+20dB
+[2025-07-25 04:07:46] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_-20dB in 6.58s
+[2025-07-25 04:07:46] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_-20dB
+[2025-07-25 04:07:46] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_+20dB in 6.63s
+[2025-07-25 04:07:46] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_+20dB
+[2025-07-25 04:07:46] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_+00dB in 6.66s
+[2025-07-25 04:07:46] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_+00dB
+[2025-07-25 04:07:53] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win512 in 13.26s
+[2025-07-25 04:07:53] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win512
+[2025-07-25 04:08:22] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_+00dB in 36.33s
+[2025-07-25 04:08:23] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_+20dB in 36.50s
+[2025-07-25 04:08:23] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_-20dB in 36.56s
+[2025-07-25 04:08:23] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_+05dB
+[2025-07-25 04:08:24] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win64
+[2025-07-25 04:08:24] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_-15dB
+[2025-07-25 04:08:29] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win512 in 35.93s
+[2025-07-25 04:08:29] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_+05dB in 6.02s
+[2025-07-25 04:08:29] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_+05dB
+[2025-07-25 04:08:30] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_-15dB in 6.06s
+[2025-07-25 04:08:30] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_-15dB
+[2025-07-25 04:08:30] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:08:32] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win64 in 8.76s
+[2025-07-25 04:08:32] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win64
+[2025-07-25 04:08:48] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win1024 in 18.59s
+[2025-07-25 04:08:48] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:09:08] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_+05dB in 38.68s
+[2025-07-25 04:09:08] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_-15dB in 38.53s
+[2025-07-25 04:09:09] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_+10dB
+[2025-07-25 04:09:09] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_-10dB
+[2025-07-25 04:09:11] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win64 in 38.39s
+[2025-07-25 04:09:12] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win128
+[2025-07-25 04:09:15] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_+10dB in 6.01s
+[2025-07-25 04:09:15] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_+10dB
+[2025-07-25 04:09:16] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_-10dB in 6.19s
+[2025-07-25 04:09:16] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_-10dB
+[2025-07-25 04:09:22] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win128 in 10.19s
+[2025-07-25 04:09:22] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win128
+[2025-07-25 04:09:25] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win1024 in 36.88s
+[2025-07-25 04:09:26] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:09:52] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_+10dB in 36.56s
+[2025-07-25 04:09:52] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_-10dB in 36.66s
+[2025-07-25 04:09:53] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_+15dB
+[2025-07-25 04:09:53] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_SNR_-05dB
+[2025-07-25 04:09:56] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win2048 in 29.40s
+[2025-07-25 04:09:56] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:09:58] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win128 in 35.86s
+[2025-07-25 04:09:59] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win256
+[2025-07-25 04:10:00] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_+15dB in 7.11s
+[2025-07-25 04:10:00] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_+15dB
+[2025-07-25 04:10:01] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_SNR_-05dB in 7.27s
+[2025-07-25 04:10:01] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_SNR_-05dB
+[2025-07-25 04:10:12] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-20dB_win256 in 13.36s
+[2025-07-25 04:10:12] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win256
+[2025-07-25 04:10:36] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win2048 in 40.12s
+[2025-07-25 04:10:37] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win64
+[2025-07-25 04:10:40] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_+15dB in 40.22s
+[2025-07-25 04:10:40] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_SNR_-05dB in 39.79s
+[2025-07-25 04:10:41] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win128
+[2025-07-25 04:10:42] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:10:47] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win64 in 10.41s
+[2025-07-25 04:10:47] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win64
+[2025-07-25 04:10:51] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-20dB_win256 in 38.72s
+[2025-07-25 04:10:52] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win512
+[2025-07-25 04:10:53] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win128 in 11.39s
+[2025-07-25 04:10:53] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win128
+[2025-07-25 04:11:08] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win512 in 16.25s
+[2025-07-25 04:11:08] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win512
+[2025-07-25 04:11:18] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win2048 in 36.36s
+[2025-07-25 04:11:18] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:11:24] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win64 in 36.79s
+[2025-07-25 04:11:25] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win128
+[2025-07-25 04:11:30] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win128 in 37.75s
+[2025-07-25 04:11:32] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win256
+[2025-07-25 04:11:37] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win128 in 11.46s
+[2025-07-25 04:11:37] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win128
+[2025-07-25 04:11:44] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win256 in 12.76s
+[2025-07-25 04:11:44] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win256
+[2025-07-25 04:11:47] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win512 in 39.05s
+[2025-07-25 04:11:49] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:11:56] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win2048 in 37.95s
+[2025-07-25 04:11:57] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win64
+[2025-07-25 04:12:07] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win64 in 10.28s
+[2025-07-25 04:12:07] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win64
+[2025-07-25 04:12:10] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win1024 in 21.02s
+[2025-07-25 04:12:10] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:12:14] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win128 in 37.36s
+[2025-07-25 04:12:15] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win256
+[2025-07-25 04:12:22] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win256 in 38.06s
+[2025-07-25 04:12:23] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win512
+[2025-07-25 04:12:27] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win256 in 12.20s
+[2025-07-25 04:12:27] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win256
+[2025-07-25 04:12:39] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win512 in 15.89s
+[2025-07-25 04:12:39] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win512
+[2025-07-25 04:12:47] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win64 in 40.07s
+[2025-07-25 04:12:48] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win128
+[2025-07-25 04:12:49] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win1024 in 39.43s
+[2025-07-25 04:12:50] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:12:58] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win128 in 9.71s
+[2025-07-25 04:12:58] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win128
+[2025-07-25 04:13:06] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win256 in 38.48s
+[2025-07-25 04:13:07] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win512
+[2025-07-25 04:13:16] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win512 in 36.34s
+[2025-07-25 04:13:17] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:13:18] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win2048 in 27.82s
+[2025-07-25 04:13:18] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:13:19] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win512 in 12.57s
+[2025-07-25 04:13:19] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win512
+[2025-07-25 04:13:32] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win128 in 33.86s
+[2025-07-25 04:13:33] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win256
+[2025-07-25 04:13:35] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-15dB_win1024 in 18.53s
+[2025-07-25 04:13:35] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:13:44] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-10dB_win256 in 10.69s
+[2025-07-25 04:13:44] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win256
+[2025-07-25 04:13:54] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win2048 in 35.74s
+[2025-07-25 04:13:55] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win64
+[2025-07-25 04:13:55] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win512 in 35.75s
+[2025-07-25 04:13:56] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:14:04] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win64 in 8.79s
+[2025-07-25 04:14:04] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win64
+[2025-07-25 04:14:10] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-15dB_win1024 in 35.00s
+[2025-07-25 04:14:11] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:14:14] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win1024 in 17.56s
+[2025-07-25 04:14:14] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:14:19] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-10dB_win256 in 35.06s
+[2025-07-25 04:14:20] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win512
+[2025-07-25 04:14:33] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win512 in 13.37s
+[2025-07-25 04:14:33] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win512
+[2025-07-25 04:14:38] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_-05dB_win2048 in 26.53s
+[2025-07-25 04:14:38] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:14:40] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win64 in 36.17s
+[2025-07-25 04:14:41] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win128
+[2025-07-25 04:14:51] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win128 in 10.45s
+[2025-07-25 04:14:51] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win128
+[2025-07-25 04:14:51] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win1024 in 37.85s
+[2025-07-25 04:14:52] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:15:11] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win512 in 38.12s
+[2025-07-25 04:15:12] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:15:15] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_-05dB_win2048 in 37.35s
+[2025-07-25 04:15:16] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win64
+[2025-07-25 04:15:21] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win2048 in 28.49s
+[2025-07-25 04:15:21] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:15:25] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win64 in 9.40s
+[2025-07-25 04:15:25] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win64
+[2025-07-25 04:15:27] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win128 in 35.69s
+[2025-07-25 04:15:28] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win256
+[2025-07-25 04:15:31] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win1024 in 18.56s
+[2025-07-25 04:15:31] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:15:38] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win256 in 9.87s
+[2025-07-25 04:15:38] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win256
+[2025-07-25 04:15:57] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win2048 in 35.74s
+[2025-07-25 04:15:58] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win64
+[2025-07-25 04:16:01] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win64 in 35.32s
+[2025-07-25 04:16:02] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win128
+[2025-07-25 04:16:06] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win1024 in 35.44s
+[2025-07-25 04:16:07] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win64 in 9.54s
+[2025-07-25 04:16:07] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win64
+[2025-07-25 04:16:07] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:16:11] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win128 in 9.51s
+[2025-07-25 04:16:11] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win128
+[2025-07-25 04:16:13] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win256 in 35.73s
+[2025-07-25 04:16:15] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win512
+[2025-07-25 04:16:28] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win512 in 13.11s
+[2025-07-25 04:16:28] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win512
+[2025-07-25 04:16:36] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win2048 in 28.87s
+[2025-07-25 04:16:36] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:16:43] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win64 in 35.75s
+[2025-07-25 04:16:44] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win128
+[2025-07-25 04:16:48] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win128 in 36.66s
+[2025-07-25 04:16:49] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win256
+[2025-07-25 04:16:55] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win128 in 11.08s
+[2025-07-25 04:16:55] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win128
+[2025-07-25 04:17:02] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+00dB_win256 in 12.61s
+[2025-07-25 04:17:02] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win256
+[2025-07-25 04:17:06] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win512 in 38.52s
+[2025-07-25 04:17:07] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:17:14] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win2048 in 38.07s
+[2025-07-25 04:17:15] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win64
+[2025-07-25 04:17:26] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win64 in 10.59s
+[2025-07-25 04:17:26] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win64
+[2025-07-25 04:17:29] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+05dB_win1024 in 21.76s
+[2025-07-25 04:17:29] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:17:33] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win128 in 38.28s
+[2025-07-25 04:17:34] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win256
+[2025-07-25 04:17:40] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+00dB_win256 in 37.63s
+[2025-07-25 04:17:41] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win512
+[2025-07-25 04:17:47] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win256 in 12.41s
+[2025-07-25 04:17:47] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win256
+[2025-07-25 04:17:58] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win512 in 16.93s
+[2025-07-25 04:17:58] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win512
+[2025-07-25 04:18:05] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win64 in 39.03s
+[2025-07-25 04:18:06] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win128
+[2025-07-25 04:18:09] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+05dB_win1024 in 39.52s
+[2025-07-25 04:18:10] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:18:17] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win128 in 10.65s
+[2025-07-25 04:18:17] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win128
+[2025-07-25 04:18:26] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win256 in 39.03s
+[2025-07-25 04:18:27] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win512
+[2025-07-25 04:18:34] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win512 in 36.01s
+[2025-07-25 04:18:34] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:18:41] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win512 in 14.22s
+[2025-07-25 04:18:41] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win512
+[2025-07-25 04:18:44] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win2048 in 34.55s
+[2025-07-25 04:18:44] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:18:52] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win128 in 35.32s
+[2025-07-25 04:18:53] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win256
+[2025-07-25 04:18:56] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win1024 in 21.51s
+[2025-07-25 04:18:56] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:19:05] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win256 in 11.88s
+[2025-07-25 04:19:05] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win256
+[2025-07-25 04:19:19] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win512 in 38.26s
+[2025-07-25 04:19:21] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:19:22] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win2048 in 38.16s
+[2025-07-25 04:19:23] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win64
+[2025-07-25 04:19:33] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win64 in 10.10s
+[2025-07-25 04:19:33] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win64
+[2025-07-25 04:19:34] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win1024 in 37.70s
+[2025-07-25 04:19:35] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:19:39] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win1024 in 18.77s
+[2025-07-25 04:19:39] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:19:42] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win256 in 37.37s
+[2025-07-25 04:19:43] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win512
+[2025-07-25 04:19:58] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win512 in 14.44s
+[2025-07-25 04:19:58] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win512
+[2025-07-25 04:20:06] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+10dB_win2048 in 31.73s
+[2025-07-25 04:20:06] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:20:10] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win64 in 36.48s
+[2025-07-25 04:20:11] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win128
+[2025-07-25 04:20:16] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win1024 in 36.40s
+[2025-07-25 04:20:17] [SpawnPoolWorker-6] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:20:22] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win128 in 10.72s
+[2025-07-25 04:20:22] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win128
+[2025-07-25 04:20:35] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win512 in 36.84s
+[2025-07-25 04:20:36] [SpawnPoolWorker-8] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:20:43] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+10dB_win2048 in 36.19s
+[2025-07-25 04:20:44] [SpawnPoolWorker-7] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win64
+[2025-07-25 04:20:50] [SpawnPoolWorker-6] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win2048 in 32.89s
+[2025-07-25 04:20:50] [SpawnPoolWorker-6] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:20:54] [SpawnPoolWorker-7] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win64 in 10.46s
+[2025-07-25 04:20:54] [SpawnPoolWorker-7] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win64
+[2025-07-25 04:20:57] [SpawnPoolWorker-8] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+15dB_win1024 in 21.71s
+[2025-07-25 04:20:57] [SpawnPoolWorker-8] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:20:58] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win128 in 36.47s
+[2025-07-25 04:20:59] [SpawnPoolWorker-5] Start apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win256
+[2025-07-25 04:21:11] [SpawnPoolWorker-5] Finished apply_noise_profile: pack1_1-2s | AWGN_Local_+20dB_win256 in 11.99s
+[2025-07-25 04:21:11] [SpawnPoolWorker-5] Start generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win256
+[2025-07-25 04:21:28] [SpawnPoolWorker-6] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win2048 in 38.20s
+[2025-07-25 04:21:33] [SpawnPoolWorker-7] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win64 in 38.52s
+[2025-07-25 04:21:35] [SpawnPoolWorker-8] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+15dB_win1024 in 37.58s
+[2025-07-25 04:21:46] [SpawnPoolWorker-5] Finished generate_spectrogram: pack1_1-2s | AWGN_Local_+20dB_win256 in 34.60s
+[2025-07-25 04:22:22] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_+20dB
+[2025-07-25 04:22:23] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_+00dB
+[2025-07-25 04:22:23] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_-20dB
+[2025-07-25 04:22:23] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win512
+[2025-07-25 04:22:29] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_+00dB in 6.94s
+[2025-07-25 04:22:29] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_+00dB
+[2025-07-25 04:22:30] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_-20dB in 7.02s
+[2025-07-25 04:22:30] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_-20dB
+[2025-07-25 04:22:30] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_+20dB in 7.38s
+[2025-07-25 04:22:30] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_+20dB
+[2025-07-25 04:22:41] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win512 in 18.46s
+[2025-07-25 04:22:41] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win512
+[2025-07-25 04:23:11] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_+20dB in 40.74s
+[2025-07-25 04:23:11] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_+00dB in 41.56s
+[2025-07-25 04:23:11] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_-20dB in 41.86s
+[2025-07-25 04:23:12] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win64
+[2025-07-25 04:23:12] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_+05dB
+[2025-07-25 04:23:12] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_-15dB
+[2025-07-25 04:23:19] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_-15dB in 6.75s
+[2025-07-25 04:23:19] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_-15dB
+[2025-07-25 04:23:19] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_+05dB in 7.20s
+[2025-07-25 04:23:19] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_+05dB
+[2025-07-25 04:23:21] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win512 in 40.26s
+[2025-07-25 04:23:22] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:23:23] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win64 in 10.88s
+[2025-07-25 04:23:23] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win64
+[2025-07-25 04:23:42] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win1024 in 19.80s
+[2025-07-25 04:23:42] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:23:57] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_-15dB in 37.92s
+[2025-07-25 04:23:58] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_+05dB in 38.22s
+[2025-07-25 04:23:58] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_-10dB
+[2025-07-25 04:23:59] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_+10dB
+[2025-07-25 04:24:00] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win64 in 37.83s
+[2025-07-25 04:24:01] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win128
+[2025-07-25 04:24:05] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_-10dB in 6.88s
+[2025-07-25 04:24:05] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_-10dB
+[2025-07-25 04:24:06] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_+10dB in 6.93s
+[2025-07-25 04:24:06] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_+10dB
+[2025-07-25 04:24:12] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win128 in 11.21s
+[2025-07-25 04:24:12] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win128
+[2025-07-25 04:24:21] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win1024 in 38.49s
+[2025-07-25 04:24:22] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:24:42] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_-10dB in 37.34s
+[2025-07-25 04:24:43] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_+10dB in 37.35s
+[2025-07-25 04:24:43] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_-05dB
+[2025-07-25 04:24:44] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_SNR_+15dB
+[2025-07-25 04:24:49] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win128 in 36.65s
+[2025-07-25 04:24:50] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_-05dB in 6.53s
+[2025-07-25 04:24:50] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_-05dB
+[2025-07-25 04:24:50] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win256
+[2025-07-25 04:24:51] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_SNR_+15dB in 6.90s
+[2025-07-25 04:24:51] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_SNR_+15dB
+[2025-07-25 04:24:56] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win2048 in 34.40s
+[2025-07-25 04:24:56] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:25:03] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-20dB_win256 in 12.80s
+[2025-07-25 04:25:03] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win256
+[2025-07-25 04:25:29] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_-05dB in 39.02s
+[2025-07-25 04:25:30] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win128
+[2025-07-25 04:25:30] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_SNR_+15dB in 39.52s
+[2025-07-25 04:25:32] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:25:35] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win2048 in 38.39s
+[2025-07-25 04:25:36] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win64
+[2025-07-25 04:25:41] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win128 in 10.87s
+[2025-07-25 04:25:41] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win128
+[2025-07-25 04:25:41] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-20dB_win256 in 38.10s
+[2025-07-25 04:25:42] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win512
+[2025-07-25 04:25:46] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win64 in 10.63s
+[2025-07-25 04:25:46] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win64
+[2025-07-25 04:25:58] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win512 in 15.71s
+[2025-07-25 04:25:58] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win512
+[2025-07-25 04:26:03] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win2048 in 31.23s
+[2025-07-25 04:26:03] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:26:19] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win128 in 37.96s
+[2025-07-25 04:26:20] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win256
+[2025-07-25 04:26:25] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win64 in 38.52s
+[2025-07-25 04:26:26] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win128
+[2025-07-25 04:26:32] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win256 in 12.10s
+[2025-07-25 04:26:32] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win256
+[2025-07-25 04:26:37] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win512 in 39.32s
+[2025-07-25 04:26:38] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win128 in 12.11s
+[2025-07-25 04:26:38] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win128
+[2025-07-25 04:26:38] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:26:42] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win2048 in 39.10s
+[2025-07-25 04:26:43] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win64
+[2025-07-25 04:26:54] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win64 in 10.60s
+[2025-07-25 04:26:54] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win64
+[2025-07-25 04:27:00] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win1024 in 22.07s
+[2025-07-25 04:27:00] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:27:11] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win256 in 38.52s
+[2025-07-25 04:27:12] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win512
+[2025-07-25 04:27:16] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win128 in 38.29s
+[2025-07-25 04:27:18] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win256
+[2025-07-25 04:27:28] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win512 in 15.83s
+[2025-07-25 04:27:28] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win512
+[2025-07-25 04:27:30] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win256 in 12.80s
+[2025-07-25 04:27:30] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win256
+[2025-07-25 04:27:32] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win64 in 38.24s
+[2025-07-25 04:27:33] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win128
+[2025-07-25 04:27:39] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win1024 in 38.45s
+[2025-07-25 04:27:40] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:27:44] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win128 in 11.28s
+[2025-07-25 04:27:44] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win128
+[2025-07-25 04:28:05] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win512 in 37.31s
+[2025-07-25 04:28:06] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:28:07] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win256 in 36.83s
+[2025-07-25 04:28:08] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win512
+[2025-07-25 04:28:11] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win2048 in 31.28s
+[2025-07-25 04:28:11] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:28:19] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win128 in 35.11s
+[2025-07-25 04:28:20] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win256
+[2025-07-25 04:28:23] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win512 in 15.19s
+[2025-07-25 04:28:23] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win512
+[2025-07-25 04:28:28] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-15dB_win1024 in 21.89s
+[2025-07-25 04:28:28] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:28:33] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-10dB_win256 in 12.67s
+[2025-07-25 04:28:33] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win256
+[2025-07-25 04:28:49] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win2048 in 38.15s
+[2025-07-25 04:28:50] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win64
+[2025-07-25 04:29:01] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win64 in 10.94s
+[2025-07-25 04:29:01] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win64
+[2025-07-25 04:29:04] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win512 in 40.36s
+[2025-07-25 04:29:05] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:29:08] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-15dB_win1024 in 39.81s
+[2025-07-25 04:29:09] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:29:12] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-10dB_win256 in 38.67s
+[2025-07-25 04:29:13] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win512
+[2025-07-25 04:29:24] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win1024 in 19.05s
+[2025-07-25 04:29:24] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:29:28] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win512 in 14.89s
+[2025-07-25 04:29:28] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win512
+[2025-07-25 04:29:37] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win64 in 35.15s
+[2025-07-25 04:29:38] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win128
+[2025-07-25 04:29:42] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_-05dB_win2048 in 33.65s
+[2025-07-25 04:29:42] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:29:49] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win128 in 11.46s
+[2025-07-25 04:29:49] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win128
+[2025-07-25 04:30:01] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win1024 in 37.04s
+[2025-07-25 04:30:02] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:30:05] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win512 in 36.87s
+[2025-07-25 04:30:05] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:30:19] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_-05dB_win2048 in 36.84s
+[2025-07-25 04:30:20] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win64
+[2025-07-25 04:30:26] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win128 in 36.67s
+[2025-07-25 04:30:26] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win1024 in 20.61s
+[2025-07-25 04:30:26] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:30:27] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win256
+[2025-07-25 04:30:30] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win64 in 9.87s
+[2025-07-25 04:30:30] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win64
+[2025-07-25 04:30:32] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win2048 in 30.31s
+[2025-07-25 04:30:32] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:30:40] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win256 in 12.84s
+[2025-07-25 04:30:40] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win256
+[2025-07-25 04:31:06] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win1024 in 40.16s
+[2025-07-25 04:31:07] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:31:10] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win64 in 39.51s
+[2025-07-25 04:31:11] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win128
+[2025-07-25 04:31:12] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win2048 in 39.76s
+[2025-07-25 04:31:13] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win64
+[2025-07-25 04:31:19] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win256 in 39.33s
+[2025-07-25 04:31:20] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win512
+[2025-07-25 04:31:22] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win128 in 11.37s
+[2025-07-25 04:31:22] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win128
+[2025-07-25 04:31:23] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win64 in 10.36s
+[2025-07-25 04:31:23] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win64
+[2025-07-25 04:31:35] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win512 in 15.36s
+[2025-07-25 04:31:35] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win512
+[2025-07-25 04:31:39] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win2048 in 32.10s
+[2025-07-25 04:31:39] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:31:59] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win128 in 37.47s
+[2025-07-25 04:32:01] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win256
+[2025-07-25 04:32:01] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win64 in 38.01s
+[2025-07-25 04:32:03] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win128
+[2025-07-25 04:32:15] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+00dB_win256 in 13.82s
+[2025-07-25 04:32:15] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win256
+[2025-07-25 04:32:15] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win128 in 12.57s
+[2025-07-25 04:32:15] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win128
+[2025-07-25 04:32:16] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win512 in 40.58s
+[2025-07-25 04:32:17] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:32:19] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win2048 in 39.50s
+[2025-07-25 04:32:20] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win64
+[2025-07-25 04:32:30] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win64 in 10.03s
+[2025-07-25 04:32:30] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win64
+[2025-07-25 04:32:37] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+05dB_win1024 in 20.33s
+[2025-07-25 04:32:37] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:32:53] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win128 in 37.58s
+[2025-07-25 04:32:53] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+00dB_win256 in 38.76s
+[2025-07-25 04:32:54] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win256
+[2025-07-25 04:32:54] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win512
+[2025-07-25 04:33:07] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win256 in 12.92s
+[2025-07-25 04:33:07] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win256
+[2025-07-25 04:33:08] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win64 in 37.95s
+[2025-07-25 04:33:09] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win128
+[2025-07-25 04:33:11] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win512 in 16.29s
+[2025-07-25 04:33:11] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win512
+[2025-07-25 04:33:15] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+05dB_win1024 in 37.76s
+[2025-07-25 04:33:16] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:33:20] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win128 in 11.39s
+[2025-07-25 04:33:20] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win128
+[2025-07-25 04:33:44] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win256 in 37.63s
+[2025-07-25 04:33:45] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win512
+[2025-07-25 04:33:47] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win512 in 36.57s
+[2025-07-25 04:33:48] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:33:50] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win2048 in 33.63s
+[2025-07-25 04:33:50] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:33:57] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win128 in 36.29s
+[2025-07-25 04:33:58] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win256
+[2025-07-25 04:34:00] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win512 in 14.66s
+[2025-07-25 04:34:00] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win512
+[2025-07-25 04:34:10] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win1024 in 21.69s
+[2025-07-25 04:34:10] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:34:11] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win256 in 13.70s
+[2025-07-25 04:34:11] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win256
+[2025-07-25 04:34:28] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win2048 in 38.22s
+[2025-07-25 04:34:29] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win64
+[2025-07-25 04:34:38] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win512 in 37.92s
+[2025-07-25 04:34:39] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:34:40] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win64 in 11.13s
+[2025-07-25 04:34:40] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win64
+[2025-07-25 04:34:48] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win1024 in 38.17s
+[2025-07-25 04:34:49] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win256 in 37.43s
+[2025-07-25 04:34:49] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:34:50] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win512
+[2025-07-25 04:34:59] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win1024 in 19.49s
+[2025-07-25 04:34:59] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:35:05] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win512 in 15.71s
+[2025-07-25 04:35:05] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win512
+[2025-07-25 04:35:17] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win64 in 36.34s
+[2025-07-25 04:35:18] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win128
+[2025-07-25 04:35:24] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+10dB_win2048 in 34.26s
+[2025-07-25 04:35:24] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:35:28] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win128 in 10.62s
+[2025-07-25 04:35:28] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win128
+[2025-07-25 04:35:36] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win1024 in 37.71s
+[2025-07-25 04:35:37] [SpawnPoolWorker-11] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:35:43] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win512 in 37.57s
+[2025-07-25 04:35:44] [SpawnPoolWorker-12] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:36:00] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+10dB_win2048 in 36.24s
+[2025-07-25 04:36:01] [SpawnPoolWorker-9] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win64
+[2025-07-25 04:36:05] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win128 in 36.45s
+[2025-07-25 04:36:06] [SpawnPoolWorker-12] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win1024 in 21.75s
+[2025-07-25 04:36:06] [SpawnPoolWorker-12] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:36:06] [SpawnPoolWorker-10] Start apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win256
+[2025-07-25 04:36:11] [SpawnPoolWorker-9] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+15dB_win64 in 10.32s
+[2025-07-25 04:36:11] [SpawnPoolWorker-9] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win64
+[2025-07-25 04:36:12] [SpawnPoolWorker-11] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win2048 in 34.74s
+[2025-07-25 04:36:12] [SpawnPoolWorker-11] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:36:18] [SpawnPoolWorker-10] Finished apply_noise_profile: pack1_2-3s | AWGN_Local_+20dB_win256 in 12.62s
+[2025-07-25 04:36:18] [SpawnPoolWorker-10] Start generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win256
+[2025-07-25 04:36:44] [SpawnPoolWorker-12] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win1024 in 38.70s
+[2025-07-25 04:36:49] [SpawnPoolWorker-9] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+15dB_win64 in 38.11s
+[2025-07-25 04:36:50] [SpawnPoolWorker-11] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win2048 in 38.26s
+[2025-07-25 04:36:56] [SpawnPoolWorker-10] Finished generate_spectrogram: pack1_2-3s | AWGN_Local_+20dB_win256 in 37.27s
+[2025-07-25 04:37:32] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_+00dB
+[2025-07-25 04:37:32] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win512
+[2025-07-25 04:37:32] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_+20dB
+[2025-07-25 04:37:32] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_-20dB
+[2025-07-25 04:37:39] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_-20dB in 6.93s
+[2025-07-25 04:37:39] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_-20dB
+[2025-07-25 04:37:40] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_+00dB in 7.09s
+[2025-07-25 04:37:40] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_+00dB
+[2025-07-25 04:37:40] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_+20dB in 7.10s
+[2025-07-25 04:37:40] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_+20dB
+[2025-07-25 04:37:48] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win512 in 15.38s
+[2025-07-25 04:37:48] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win512
+[2025-07-25 04:38:19] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_-20dB in 39.17s
+[2025-07-25 04:38:19] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_+20dB in 39.17s
+[2025-07-25 04:38:19] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_+00dB in 39.32s
+[2025-07-25 04:38:20] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_-15dB
+[2025-07-25 04:38:20] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win64
+[2025-07-25 04:38:20] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_+05dB
+[2025-07-25 04:38:26] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win512 in 38.39s
+[2025-07-25 04:38:26] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_-15dB in 6.80s
+[2025-07-25 04:38:26] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_-15dB
+[2025-07-25 04:38:27] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_+05dB in 6.76s
+[2025-07-25 04:38:27] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_+05dB
+[2025-07-25 04:38:27] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:38:31] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win64 in 10.87s
+[2025-07-25 04:38:31] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win64
+[2025-07-25 04:38:48] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win1024 in 21.16s
+[2025-07-25 04:38:48] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:39:05] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_-15dB in 38.14s
+[2025-07-25 04:39:05] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_+05dB in 37.87s
+[2025-07-25 04:39:06] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_-10dB
+[2025-07-25 04:39:06] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_+10dB
+[2025-07-25 04:39:09] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win64 in 37.98s
+[2025-07-25 04:39:10] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win128
+[2025-07-25 04:39:12] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_-10dB in 6.72s
+[2025-07-25 04:39:12] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_-10dB
+[2025-07-25 04:39:13] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_+10dB in 6.91s
+[2025-07-25 04:39:13] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_+10dB
+[2025-07-25 04:39:21] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win128 in 11.26s
+[2025-07-25 04:39:21] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win128
+[2025-07-25 04:39:27] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win1024 in 38.19s
+[2025-07-25 04:39:28] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:39:49] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_-10dB in 36.47s
+[2025-07-25 04:39:50] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_+10dB in 36.97s
+[2025-07-25 04:39:50] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_-05dB
+[2025-07-25 04:39:51] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_SNR_+15dB
+[2025-07-25 04:39:57] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_-05dB in 7.04s
+[2025-07-25 04:39:57] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_-05dB
+[2025-07-25 04:39:57] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win128 in 36.37s
+[2025-07-25 04:39:58] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win2048 in 30.08s
+[2025-07-25 04:39:58] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:39:58] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_SNR_+15dB in 7.24s
+[2025-07-25 04:39:58] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_SNR_+15dB
+[2025-07-25 04:39:58] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win256
+[2025-07-25 04:40:10] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-20dB_win256 in 11.90s
+[2025-07-25 04:40:10] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win256
+[2025-07-25 04:40:34] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_-05dB in 37.62s
+[2025-07-25 04:40:36] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win128
+[2025-07-25 04:40:36] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win2048 in 38.45s
+[2025-07-25 04:40:36] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_SNR_+15dB in 38.62s
+[2025-07-25 04:40:37] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win64
+[2025-07-25 04:40:38] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:40:46] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win128 in 10.49s
+[2025-07-25 04:40:46] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win128
+[2025-07-25 04:40:48] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win64 in 10.75s
+[2025-07-25 04:40:48] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win64
+[2025-07-25 04:40:48] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-20dB_win256 in 38.04s
+[2025-07-25 04:40:50] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win512
+[2025-07-25 04:41:04] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win512 in 14.88s
+[2025-07-25 04:41:04] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win512
+[2025-07-25 04:41:13] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win2048 in 35.79s
+[2025-07-25 04:41:13] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:41:24] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win128 in 37.56s
+[2025-07-25 04:41:25] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win256
+[2025-07-25 04:41:26] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win64 in 38.03s
+[2025-07-25 04:41:27] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win128
+[2025-07-25 04:41:41] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win256 in 15.85s
+[2025-07-25 04:41:41] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win256
+[2025-07-25 04:41:41] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win128 in 14.48s
+[2025-07-25 04:41:41] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win128
+[2025-07-25 04:41:45] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win512 in 40.89s
+[2025-07-25 04:41:47] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:41:55] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win2048 in 41.40s
+[2025-07-25 04:41:56] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win64
+[2025-07-25 04:42:06] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win64 in 10.35s
+[2025-07-25 04:42:06] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win64
+[2025-07-25 04:42:09] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win1024 in 21.94s
+[2025-07-25 04:42:09] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:42:19] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win256 in 38.77s
+[2025-07-25 04:42:20] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win128 in 38.81s
+[2025-07-25 04:42:21] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win512
+[2025-07-25 04:42:21] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win256
+[2025-07-25 04:42:35] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win256 in 13.37s
+[2025-07-25 04:42:35] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win256
+[2025-07-25 04:42:36] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win512 in 15.28s
+[2025-07-25 04:42:36] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win512
+[2025-07-25 04:42:45] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win64 in 38.49s
+[2025-07-25 04:42:46] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win128
+[2025-07-25 04:42:47] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win1024 in 38.24s
+[2025-07-25 04:42:48] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:42:57] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win128 in 11.39s
+[2025-07-25 04:42:57] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win128
+[2025-07-25 04:43:12] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win256 in 36.96s
+[2025-07-25 04:43:13] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win512
+[2025-07-25 04:43:13] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win512 in 37.34s
+[2025-07-25 04:43:14] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:43:22] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win2048 in 33.92s
+[2025-07-25 04:43:22] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:43:27] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win512 in 14.28s
+[2025-07-25 04:43:27] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win512
+[2025-07-25 04:43:33] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win128 in 35.89s
+[2025-07-25 04:43:34] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-15dB_win1024 in 19.75s
+[2025-07-25 04:43:34] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:43:34] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win256
+[2025-07-25 04:43:47] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-10dB_win256 in 12.58s
+[2025-07-25 04:43:47] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win256
+[2025-07-25 04:44:01] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win2048 in 38.71s
+[2025-07-25 04:44:02] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win64
+[2025-07-25 04:44:06] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win512 in 38.98s
+[2025-07-25 04:44:07] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:44:12] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win64 in 9.92s
+[2025-07-25 04:44:12] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win64
+[2025-07-25 04:44:13] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-15dB_win1024 in 38.98s
+[2025-07-25 04:44:14] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:44:24] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-10dB_win256 in 37.13s
+[2025-07-25 04:44:25] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win512
+[2025-07-25 04:44:28] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win1024 in 21.36s
+[2025-07-25 04:44:28] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:44:39] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win512 in 14.53s
+[2025-07-25 04:44:39] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win512
+[2025-07-25 04:44:47] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win64 in 35.04s
+[2025-07-25 04:44:48] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win128
+[2025-07-25 04:44:49] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_-05dB_win2048 in 35.50s
+[2025-07-25 04:44:49] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:44:59] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win128 in 11.20s
+[2025-07-25 04:44:59] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win128
+[2025-07-25 04:45:07] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win1024 in 38.35s
+[2025-07-25 04:45:08] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:45:18] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win512 in 38.42s
+[2025-07-25 04:45:19] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:45:27] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_-05dB_win2048 in 37.27s
+[2025-07-25 04:45:28] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win64
+[2025-07-25 04:45:35] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win128 in 35.67s
+[2025-07-25 04:45:36] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win256
+[2025-07-25 04:45:38] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win64 in 9.94s
+[2025-07-25 04:45:38] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win64
+[2025-07-25 04:45:39] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win1024 in 20.03s
+[2025-07-25 04:45:39] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win1024
+[2025-07-25 04:45:42] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win2048 in 34.24s
+[2025-07-25 04:45:42] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win2048
+[2025-07-25 04:45:49] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win256 in 13.03s
+[2025-07-25 04:45:49] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win256
+[2025-07-25 04:46:19] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win64 in 41.16s
+[2025-07-25 04:46:20] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win1024 in 40.74s
+[2025-07-25 04:46:20] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win128
+[2025-07-25 04:46:21] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:46:23] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win2048 in 40.60s
+[2025-07-25 04:46:24] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win64
+[2025-07-25 04:46:28] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win256 in 39.01s
+[2025-07-25 04:46:29] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win512
+[2025-07-25 04:46:31] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win128 in 10.86s
+[2025-07-25 04:46:31] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win128
+[2025-07-25 04:46:34] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win64 in 10.00s
+[2025-07-25 04:46:34] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win64
+[2025-07-25 04:46:44] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win512 in 15.69s
+[2025-07-25 04:46:44] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win512
+[2025-07-25 04:46:56] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win2048 in 35.00s
+[2025-07-25 04:46:56] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win2048
+[2025-07-25 04:47:09] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win128 in 38.18s
+[2025-07-25 04:47:10] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win256
+[2025-07-25 04:47:12] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win64 in 38.19s
+[2025-07-25 04:47:13] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win128
+[2025-07-25 04:47:23] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+00dB_win256 in 13.16s
+[2025-07-25 04:47:23] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win256
+[2025-07-25 04:47:24] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win512 in 39.37s
+[2025-07-25 04:47:24] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win128 in 11.44s
+[2025-07-25 04:47:24] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win128
+[2025-07-25 04:47:25] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:47:34] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win2048 in 37.99s
+[2025-07-25 04:47:35] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win64
+[2025-07-25 04:47:45] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win64 in 10.58s
+[2025-07-25 04:47:45] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win64
+[2025-07-25 04:47:48] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+05dB_win1024 in 22.37s
+[2025-07-25 04:47:48] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win1024
+[2025-07-25 04:48:02] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+00dB_win256 in 38.39s
+[2025-07-25 04:48:03] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win512
+[2025-07-25 04:48:03] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win128 in 38.77s
+[2025-07-25 04:48:04] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win256
+[2025-07-25 04:48:16] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win256 in 11.86s
+[2025-07-25 04:48:16] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win256
+[2025-07-25 04:48:19] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win512 in 15.54s
+[2025-07-25 04:48:19] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win512
+[2025-07-25 04:48:25] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win64 in 39.13s
+[2025-07-25 04:48:26] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win128
+[2025-07-25 04:48:26] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+05dB_win1024 in 38.78s
+[2025-07-25 04:48:27] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:48:36] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win128 in 10.34s
+[2025-07-25 04:48:36] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win128
+[2025-07-25 04:48:54] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win256 in 37.60s
+[2025-07-25 04:48:55] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win512
+[2025-07-25 04:48:55] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win512 in 36.83s
+[2025-07-25 04:48:56] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:48:58] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win2048 in 30.73s
+[2025-07-25 04:48:58] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win2048
+[2025-07-25 04:49:09] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win512 in 14.23s
+[2025-07-25 04:49:09] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win512
+[2025-07-25 04:49:13] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win128 in 37.06s
+[2025-07-25 04:49:14] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win256
+[2025-07-25 04:49:18] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win1024 in 21.06s
+[2025-07-25 04:49:18] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win1024
+[2025-07-25 04:49:27] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win256 in 13.00s
+[2025-07-25 04:49:27] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win256
+[2025-07-25 04:49:37] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win2048 in 38.44s
+[2025-07-25 04:49:38] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win64
+[2025-07-25 04:49:49] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win512 in 39.69s
+[2025-07-25 04:49:49] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win64 in 11.23s
+[2025-07-25 04:49:49] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win64
+[2025-07-25 04:49:50] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:49:56] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win1024 in 38.34s
+[2025-07-25 04:49:57] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:50:06] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win256 in 38.52s
+[2025-07-25 04:50:07] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win512
+[2025-07-25 04:50:11] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win1024 in 21.03s
+[2025-07-25 04:50:11] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win1024
+[2025-07-25 04:50:21] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win512 in 14.06s
+[2025-07-25 04:50:21] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win512
+[2025-07-25 04:50:25] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win64 in 35.85s
+[2025-07-25 04:50:26] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win128
+[2025-07-25 04:50:31] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+10dB_win2048 in 34.29s
+[2025-07-25 04:50:31] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win2048
+[2025-07-25 04:50:37] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win128 in 11.02s
+[2025-07-25 04:50:37] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win128
+[2025-07-25 04:50:48] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win1024 in 37.46s
+[2025-07-25 04:50:50] [SpawnPoolWorker-14] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:50:58] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win512 in 37.79s
+[2025-07-25 04:50:59] [SpawnPoolWorker-16] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:51:08] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+10dB_win2048 in 36.44s
+[2025-07-25 04:51:09] [SpawnPoolWorker-13] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win64
+[2025-07-25 04:51:13] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win128 in 35.70s
+[2025-07-25 04:51:14] [SpawnPoolWorker-15] Start apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win256
+[2025-07-25 04:51:20] [SpawnPoolWorker-13] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win64 in 11.17s
+[2025-07-25 04:51:20] [SpawnPoolWorker-13] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win64
+[2025-07-25 04:51:20] [SpawnPoolWorker-16] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+15dB_win1024 in 20.33s
+[2025-07-25 04:51:20] [SpawnPoolWorker-16] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win1024
+[2025-07-25 04:51:24] [SpawnPoolWorker-14] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win2048 in 34.56s
+[2025-07-25 04:51:24] [SpawnPoolWorker-14] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win2048
+[2025-07-25 04:51:28] [SpawnPoolWorker-15] Finished apply_noise_profile: pack1_3-4s | AWGN_Local_+20dB_win256 in 14.03s
+[2025-07-25 04:51:28] [SpawnPoolWorker-15] Start generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win256
+[2025-07-25 04:51:58] [SpawnPoolWorker-16] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win1024 in 38.68s
+[2025-07-25 04:51:59] [SpawnPoolWorker-13] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+15dB_win64 in 39.64s
+[2025-07-25 04:52:03] [SpawnPoolWorker-14] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win2048 in 39.07s
+[2025-07-25 04:52:06] [SpawnPoolWorker-15] Finished generate_spectrogram: pack1_3-4s | AWGN_Local_+20dB_win256 in 37.93s
+[2025-07-25 04:52:42] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_+20dB
+[2025-07-25 04:52:42] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_-20dB
+[2025-07-25 04:52:42] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win512
+[2025-07-25 04:52:42] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_+00dB
+[2025-07-25 04:52:49] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_-20dB in 7.37s
+[2025-07-25 04:52:49] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_-20dB
+[2025-07-25 04:52:49] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_+00dB in 7.49s
+[2025-07-25 04:52:49] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_+00dB
+[2025-07-25 04:52:49] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_+20dB in 7.55s
+[2025-07-25 04:52:49] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_+20dB
+[2025-07-25 04:52:58] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win512 in 16.36s
+[2025-07-25 04:52:58] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win512
+[2025-07-25 04:53:29] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_-20dB in 39.35s
+[2025-07-25 04:53:29] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_+00dB in 39.70s
+[2025-07-25 04:53:29] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_+20dB in 39.87s
+[2025-07-25 04:53:30] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_-15dB
+[2025-07-25 04:53:30] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_+05dB
+[2025-07-25 04:53:30] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win64
+[2025-07-25 04:53:37] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_-15dB in 6.99s
+[2025-07-25 04:53:37] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_-15dB
+[2025-07-25 04:53:37] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_+05dB in 6.71s
+[2025-07-25 04:53:37] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_+05dB
+[2025-07-25 04:53:37] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win512 in 39.06s
+[2025-07-25 04:53:38] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:53:41] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win64 in 10.54s
+[2025-07-25 04:53:41] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win64
+[2025-07-25 04:54:00] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win1024 in 21.64s
+[2025-07-25 04:54:00] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win1024
+[2025-07-25 04:54:14] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_-15dB in 37.46s
+[2025-07-25 04:54:15] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_+05dB in 37.83s
+[2025-07-25 04:54:15] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_-10dB
+[2025-07-25 04:54:16] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_+10dB
+[2025-07-25 04:54:19] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win64 in 37.94s
+[2025-07-25 04:54:20] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win128
+[2025-07-25 04:54:22] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_-10dB in 6.97s
+[2025-07-25 04:54:22] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_-10dB
+[2025-07-25 04:54:23] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_+10dB in 7.14s
+[2025-07-25 04:54:23] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_+10dB
+[2025-07-25 04:54:32] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win128 in 11.67s
+[2025-07-25 04:54:32] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win128
+[2025-07-25 04:54:40] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win1024 in 39.88s
+[2025-07-25 04:54:41] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:55:00] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_-10dB in 38.23s
+[2025-07-25 04:55:01] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_-05dB
+[2025-07-25 04:55:01] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_+10dB in 38.42s
+[2025-07-25 04:55:02] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_SNR_+15dB
+[2025-07-25 04:55:08] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_-05dB in 6.49s
+[2025-07-25 04:55:08] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_-05dB
+[2025-07-25 04:55:09] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win128 in 37.40s
+[2025-07-25 04:55:09] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_SNR_+15dB in 6.83s
+[2025-07-25 04:55:09] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_SNR_+15dB
+[2025-07-25 04:55:10] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win256
+[2025-07-25 04:55:12] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win2048 in 31.50s
+[2025-07-25 04:55:12] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win2048
+[2025-07-25 04:55:23] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-20dB_win256 in 12.64s
+[2025-07-25 04:55:23] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win256
+[2025-07-25 04:55:48] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_-05dB in 40.24s
+[2025-07-25 04:55:49] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win128
+[2025-07-25 04:55:50] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_SNR_+15dB in 40.49s
+[2025-07-25 04:55:51] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:55:53] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win2048 in 40.08s
+[2025-07-25 04:55:54] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win64
+[2025-07-25 04:56:00] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win128 in 10.62s
+[2025-07-25 04:56:00] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win128
+[2025-07-25 04:56:01] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-20dB_win256 in 38.68s
+[2025-07-25 04:56:02] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win512
+[2025-07-25 04:56:04] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win64 in 10.18s
+[2025-07-25 04:56:04] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win64
+[2025-07-25 04:56:19] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win512 in 16.86s
+[2025-07-25 04:56:19] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win512
+[2025-07-25 04:56:23] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win2048 in 32.18s
+[2025-07-25 04:56:23] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win2048
+[2025-07-25 04:56:38] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win128 in 37.93s
+[2025-07-25 04:56:39] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win256
+[2025-07-25 04:56:42] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win64 in 37.92s
+[2025-07-25 04:56:43] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win128
+[2025-07-25 04:56:51] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win256 in 12.68s
+[2025-07-25 04:56:51] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win256
+[2025-07-25 04:56:54] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win128 in 11.42s
+[2025-07-25 04:56:54] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win128
+[2025-07-25 04:56:58] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win512 in 38.40s
+[2025-07-25 04:56:59] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:57:02] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win2048 in 38.89s
+[2025-07-25 04:57:03] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win64
+[2025-07-25 04:57:13] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win64 in 9.97s
+[2025-07-25 04:57:13] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win64
+[2025-07-25 04:57:20] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win1024 in 21.26s
+[2025-07-25 04:57:20] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win1024
+[2025-07-25 04:57:29] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win256 in 37.87s
+[2025-07-25 04:57:30] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win512
+[2025-07-25 04:57:33] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win128 in 38.64s
+[2025-07-25 04:57:34] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win256
+[2025-07-25 04:57:46] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win512 in 15.50s
+[2025-07-25 04:57:46] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win512
+[2025-07-25 04:57:48] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win256 in 14.05s
+[2025-07-25 04:57:48] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win256
+[2025-07-25 04:57:53] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win64 in 39.72s
+[2025-07-25 04:57:54] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win128
+[2025-07-25 04:57:59] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win1024 in 39.19s
+[2025-07-25 04:58:00] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:58:05] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win128 in 11.59s
+[2025-07-25 04:58:05] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win128
+[2025-07-25 04:58:25] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win512 in 39.27s
+[2025-07-25 04:58:26] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win256 in 38.01s
+[2025-07-25 04:58:26] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:58:27] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win512
+[2025-07-25 04:58:30] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win2048 in 29.66s
+[2025-07-25 04:58:30] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win2048
+[2025-07-25 04:58:42] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win512 in 14.82s
+[2025-07-25 04:58:42] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win512
+[2025-07-25 04:58:42] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win128 in 36.66s
+[2025-07-25 04:58:43] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win256
+[2025-07-25 04:58:48] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-15dB_win1024 in 21.69s
+[2025-07-25 04:58:48] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win1024
+[2025-07-25 04:58:56] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-10dB_win256 in 12.62s
+[2025-07-25 04:58:56] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win256
+[2025-07-25 04:59:10] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win2048 in 39.46s
+[2025-07-25 04:59:11] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win64
+[2025-07-25 04:59:20] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win512 in 38.50s
+[2025-07-25 04:59:21] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:59:21] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win64 in 10.76s
+[2025-07-25 04:59:21] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win64
+[2025-07-25 04:59:27] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-15dB_win1024 in 39.17s
+[2025-07-25 04:59:28] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win2048
+[2025-07-25 04:59:33] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-10dB_win256 in 37.40s
+[2025-07-25 04:59:34] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win512
+[2025-07-25 04:59:44] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win1024 in 22.18s
+[2025-07-25 04:59:44] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win1024
+[2025-07-25 04:59:52] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win512 in 17.89s
+[2025-07-25 04:59:52] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win512
+[2025-07-25 04:59:59] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win64 in 37.42s
+[2025-07-25 05:00:00] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win128
+[2025-07-25 05:00:02] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_-05dB_win2048 in 34.55s
+[2025-07-25 05:00:02] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win2048
+[2025-07-25 05:00:09] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win128 in 9.63s
+[2025-07-25 05:00:09] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win128
+[2025-07-25 05:00:21] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win1024 in 37.08s
+[2025-07-25 05:00:22] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win2048
+[2025-07-25 05:00:28] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win512 in 36.12s
+[2025-07-25 05:00:29] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win1024
+[2025-07-25 05:00:37] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_-05dB_win2048 in 34.93s
+[2025-07-25 05:00:38] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win64
+[2025-07-25 05:00:43] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win128 in 33.80s
+[2025-07-25 05:00:44] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win256
+[2025-07-25 05:00:48] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win1024 in 18.81s
+[2025-07-25 05:00:48] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win1024
+[2025-07-25 05:00:50] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win64 in 11.46s
+[2025-07-25 05:00:50] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win64
+[2025-07-25 05:00:51] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win2048 in 29.18s
+[2025-07-25 05:00:51] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win2048
+[2025-07-25 05:00:57] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win256 in 12.66s
+[2025-07-25 05:00:57] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win256
+[2025-07-25 05:01:24] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win1024 in 36.35s
+[2025-07-25 05:01:25] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win2048
+[2025-07-25 05:01:26] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win64 in 35.74s
+[2025-07-25 05:01:26] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win2048 in 35.30s
+[2025-07-25 05:01:26] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win128
+[2025-07-25 05:01:27] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win64
+[2025-07-25 05:01:32] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win256 in 34.78s
+[2025-07-25 05:01:32] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win512
+[2025-07-25 05:01:36] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win128 in 9.46s
+[2025-07-25 05:01:36] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win128
+[2025-07-25 05:01:36] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win64 in 9.28s
+[2025-07-25 05:01:36] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win64
+[2025-07-25 05:01:45] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win512 in 12.29s
+[2025-07-25 05:01:45] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win512
+[2025-07-25 05:01:52] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win2048 in 26.69s
+[2025-07-25 05:01:52] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win2048
+[2025-07-25 05:02:10] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win128 in 34.54s
+[2025-07-25 05:02:10] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win64 in 34.12s
+[2025-07-25 05:02:11] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win128
+[2025-07-25 05:02:11] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win256
+[2025-07-25 05:02:20] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win512 in 34.96s
+[2025-07-25 05:02:21] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win128 in 9.27s
+[2025-07-25 05:02:21] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win128
+[2025-07-25 05:02:21] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win1024
+[2025-07-25 05:02:22] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+00dB_win256 in 10.50s
+[2025-07-25 05:02:22] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win256
+[2025-07-25 05:02:27] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win2048 in 35.42s
+[2025-07-25 05:02:28] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win64
+[2025-07-25 05:02:38] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win1024 in 17.03s
+[2025-07-25 05:02:38] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win1024
+[2025-07-25 05:02:39] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+05dB_win64 in 10.37s
+[2025-07-25 05:02:39] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win64
+[2025-07-25 05:02:57] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win128 in 36.44s
+[2025-07-25 05:02:58] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win256
+[2025-07-25 05:02:59] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+00dB_win256 in 36.96s
+[2025-07-25 05:03:00] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win512
+[2025-07-25 05:03:09] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win256 in 10.82s
+[2025-07-25 05:03:09] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win256
+[2025-07-25 05:03:13] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win512 in 13.14s
+[2025-07-25 05:03:13] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win512
+[2025-07-25 05:03:15] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win1024 in 36.91s
+[2025-07-25 05:03:15] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+05dB_win64 in 36.73s
+[2025-07-25 05:03:16] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win128
+[2025-07-25 05:03:16] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win2048
+[2025-07-25 05:03:25] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win128 in 9.20s
+[2025-07-25 05:03:25] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win128
+[2025-07-25 05:03:43] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win2048 in 26.63s
+[2025-07-25 05:03:43] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win2048
+[2025-07-25 05:03:44] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win256 in 34.32s
+[2025-07-25 05:03:45] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win512
+[2025-07-25 05:03:47] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win512 in 33.87s
+[2025-07-25 05:03:48] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win1024
+[2025-07-25 05:03:57] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win512 in 12.12s
+[2025-07-25 05:03:57] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win512
+[2025-07-25 05:03:59] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win128 in 33.64s
+[2025-07-25 05:04:00] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win256
+[2025-07-25 05:04:06] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win1024 in 17.74s
+[2025-07-25 05:04:06] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win1024
+[2025-07-25 05:04:10] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win256 in 10.29s
+[2025-07-25 05:04:10] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win256
+[2025-07-25 05:04:20] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win2048 in 36.98s
+[2025-07-25 05:04:21] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win64
+[2025-07-25 05:04:31] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win64 in 9.48s
+[2025-07-25 05:04:31] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win64
+[2025-07-25 05:04:36] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win512 in 38.91s
+[2025-07-25 05:04:36] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win1024
+[2025-07-25 05:04:44] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win1024 in 38.46s
+[2025-07-25 05:04:45] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win2048
+[2025-07-25 05:04:48] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win256 in 38.09s
+[2025-07-25 05:04:49] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win512
+[2025-07-25 05:04:53] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win1024 in 16.96s
+[2025-07-25 05:04:53] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win1024
+[2025-07-25 05:05:00] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win512 in 11.53s
+[2025-07-25 05:05:00] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win512
+[2025-07-25 05:05:03] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win64 in 32.57s
+[2025-07-25 05:05:04] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win128
+[2025-07-25 05:05:12] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+10dB_win2048 in 26.57s
+[2025-07-25 05:05:12] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win2048
+[2025-07-25 05:05:14] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win128 in 9.16s
+[2025-07-25 05:05:14] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win128
+[2025-07-25 05:05:28] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win1024 in 34.52s
+[2025-07-25 05:05:29] [SpawnPoolWorker-20] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win2048
+[2025-07-25 05:05:35] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win512 in 34.77s
+[2025-07-25 05:05:36] [SpawnPoolWorker-17] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win1024
+[2025-07-25 05:05:45] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+10dB_win2048 in 33.66s
+[2025-07-25 05:05:46] [SpawnPoolWorker-18] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win64
+[2025-07-25 05:05:47] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win128 in 33.93s
+[2025-07-25 05:05:48] [SpawnPoolWorker-19] Start apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win256
+[2025-07-25 05:05:54] [SpawnPoolWorker-17] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win1024 in 17.72s
+[2025-07-25 05:05:54] [SpawnPoolWorker-17] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win1024
+[2025-07-25 05:05:55] [SpawnPoolWorker-20] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win2048 in 25.91s
+[2025-07-25 05:05:55] [SpawnPoolWorker-20] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win2048
+[2025-07-25 05:05:57] [SpawnPoolWorker-18] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+15dB_win64 in 10.64s
+[2025-07-25 05:05:57] [SpawnPoolWorker-18] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win64
+[2025-07-25 05:06:00] [SpawnPoolWorker-19] Finished apply_noise_profile: pack1_4-5s | AWGN_Local_+20dB_win256 in 11.42s
+[2025-07-25 05:06:00] [SpawnPoolWorker-19] Start generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win256
+[2025-07-25 05:06:31] [SpawnPoolWorker-17] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win1024 in 37.26s
+[2025-07-25 05:06:31] [SpawnPoolWorker-20] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win2048 in 36.68s
+[2025-07-25 05:06:34] [SpawnPoolWorker-18] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+15dB_win64 in 36.86s
+[2025-07-25 05:06:36] [SpawnPoolWorker-19] Finished generate_spectrogram: pack1_4-5s | AWGN_Local_+20dB_win256 in 36.08s
+[2025-07-25 05:07:08] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_+00dB
+[2025-07-25 05:07:08] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_-20dB
+[2025-07-25 05:07:08] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win512
+[2025-07-25 05:07:08] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_+20dB
+[2025-07-25 05:07:14] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_+00dB in 6.33s
+[2025-07-25 05:07:14] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_+00dB
+[2025-07-25 05:07:14] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_+20dB in 6.38s
+[2025-07-25 05:07:14] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_+20dB
+[2025-07-25 05:07:14] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_-20dB in 6.53s
+[2025-07-25 05:07:14] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_-20dB
+[2025-07-25 05:07:21] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win512 in 13.58s
+[2025-07-25 05:07:21] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win512
+[2025-07-25 05:07:52] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_-20dB in 37.36s
+[2025-07-25 05:07:52] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_+00dB in 37.64s
+[2025-07-25 05:07:53] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_-15dB
+[2025-07-25 05:07:53] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_+05dB
+[2025-07-25 05:07:53] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win64
+[2025-07-25 05:07:56] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win512 in 34.95s
+[2025-07-25 05:07:57] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win1024
+[2025-07-25 05:07:59] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_-15dB in 6.07s
+[2025-07-25 05:07:59] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_-15dB
+[2025-07-25 05:07:59] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_+05dB in 6.12s
+[2025-07-25 05:07:59] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_+05dB
+[2025-07-25 05:08:01] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win64 in 8.65s
+[2025-07-25 05:08:01] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win64
+[2025-07-25 05:08:13] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win1024 in 16.11s
+[2025-07-25 05:08:13] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win1024
+[2025-07-25 05:08:34] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_+05dB in 35.10s
+[2025-07-25 05:08:34] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_-15dB in 35.26s
+[2025-07-25 05:08:35] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_+10dB
+[2025-07-25 05:08:35] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_-10dB
+[2025-07-25 05:08:36] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win64 in 34.34s
+[2025-07-25 05:08:36] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win128
+[2025-07-25 05:08:41] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_+10dB in 6.07s
+[2025-07-25 05:08:41] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_+10dB
+[2025-07-25 05:08:41] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_-10dB in 6.09s
+[2025-07-25 05:08:41] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_-10dB
+[2025-07-25 05:08:46] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win128 in 9.41s
+[2025-07-25 05:08:46] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win128
+[2025-07-25 05:08:48] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win1024 in 34.68s
+[2025-07-25 05:08:49] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win2048
+[2025-07-25 05:09:13] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win2048 in 23.55s
+[2025-07-25 05:09:13] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win2048
+[2025-07-25 05:09:15] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_-10dB in 34.47s
+[2025-07-25 05:09:15] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_+10dB in 34.55s
+[2025-07-25 05:09:16] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_-05dB
+[2025-07-25 05:09:16] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_SNR_+15dB
+[2025-07-25 05:09:20] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win128 in 34.17s
+[2025-07-25 05:09:21] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win256
+[2025-07-25 05:09:23] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_-05dB in 6.22s
+[2025-07-25 05:09:23] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_-05dB
+[2025-07-25 05:09:23] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_SNR_+15dB in 6.21s
+[2025-07-25 05:09:23] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_SNR_+15dB
+[2025-07-25 05:09:31] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-20dB_win256 in 10.28s
+[2025-07-25 05:09:31] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win256
+[2025-07-25 05:09:48] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win2048 in 35.63s
+[2025-07-25 05:09:49] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win64
+[2025-07-25 05:09:59] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win64 in 9.30s
+[2025-07-25 05:09:59] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win64
+[2025-07-25 05:10:00] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_+15dB in 37.51s
+[2025-07-25 05:10:00] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_SNR_-05dB in 37.55s
+[2025-07-25 05:10:01] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win128
+[2025-07-25 05:10:01] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win2048
+[2025-07-25 05:10:09] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-20dB_win256 in 37.28s
+[2025-07-25 05:10:10] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win512
+[2025-07-25 05:10:10] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win128 in 9.19s
+[2025-07-25 05:10:10] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win128
+[2025-07-25 05:10:21] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win512 in 11.76s
+[2025-07-25 05:10:21] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win512
+[2025-07-25 05:10:26] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win2048 in 24.47s
+[2025-07-25 05:10:26] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win2048
+[2025-07-25 05:10:33] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win64 in 34.64s
+[2025-07-25 05:10:34] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win128
+[2025-07-25 05:10:44] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win128 in 9.24s
+[2025-07-25 05:10:44] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win128
+[2025-07-25 05:10:45] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win128 in 34.57s
+[2025-07-25 05:10:46] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win256
+[2025-07-25 05:10:56] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win256 in 10.48s
+[2025-07-25 05:10:56] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win256
+[2025-07-25 05:10:57] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win512 in 35.89s
+[2025-07-25 05:10:58] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win1024
+[2025-07-25 05:11:01] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win2048 in 35.80s
+[2025-07-25 05:11:02] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win64
+[2025-07-25 05:11:12] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win64 in 9.39s
+[2025-07-25 05:11:12] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win64
+[2025-07-25 05:11:17] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win1024 in 18.48s
+[2025-07-25 05:11:17] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win1024
+[2025-07-25 05:11:19] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win128 in 35.60s
+[2025-07-25 05:11:20] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win256
+[2025-07-25 05:11:31] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win256 in 10.58s
+[2025-07-25 05:11:31] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win256
+[2025-07-25 05:11:32] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win256 in 35.65s
+[2025-07-25 05:11:33] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win512
+[2025-07-25 05:11:44] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win512 in 11.51s
+[2025-07-25 05:11:44] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win512
+[2025-07-25 05:11:47] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win64 in 35.71s
+[2025-07-25 05:11:48] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win128
+[2025-07-25 05:11:52] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win1024 in 35.53s
+[2025-07-25 05:11:53] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win2048
+[2025-07-25 05:11:58] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win128 in 9.60s
+[2025-07-25 05:11:58] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win128
+[2025-07-25 05:12:05] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win256 in 34.17s
+[2025-07-25 05:12:06] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win512
+[2025-07-25 05:12:17] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win2048 in 24.15s
+[2025-07-25 05:12:17] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win2048
+[2025-07-25 05:12:19] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win512 in 12.83s
+[2025-07-25 05:12:19] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win512
+[2025-07-25 05:12:19] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win512 in 34.87s
+[2025-07-25 05:12:20] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win1024
+[2025-07-25 05:12:32] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win128 in 34.07s
+[2025-07-25 05:12:33] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win256
+[2025-07-25 05:12:38] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-15dB_win1024 in 17.56s
+[2025-07-25 05:12:38] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win1024
+[2025-07-25 05:12:44] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-10dB_win256 in 10.79s
+[2025-07-25 05:12:44] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win256
+[2025-07-25 05:12:52] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win2048 in 34.87s
+[2025-07-25 05:12:53] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win64
+[2025-07-25 05:12:54] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win512 in 34.99s
+[2025-07-25 05:12:55] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win1024
+[2025-07-25 05:13:02] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win64 in 8.53s
+[2025-07-25 05:13:02] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win64
+[2025-07-25 05:13:11] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win1024 in 16.04s
+[2025-07-25 05:13:11] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win1024
+[2025-07-25 05:13:13] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-15dB_win1024 in 35.47s
+[2025-07-25 05:13:14] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win2048
+[2025-07-25 05:13:18] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-10dB_win256 in 34.48s
+[2025-07-25 05:13:19] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win512
+[2025-07-25 05:13:31] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win512 in 11.90s
+[2025-07-25 05:13:31] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win512
+[2025-07-25 05:13:36] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win64 in 33.78s
+[2025-07-25 05:13:37] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win128
+[2025-07-25 05:13:38] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_-05dB_win2048 in 23.95s
+[2025-07-25 05:13:38] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win2048
+[2025-07-25 05:13:45] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win1024 in 33.75s
+[2025-07-25 05:13:46] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win2048
+[2025-07-25 05:13:46] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win128 in 8.92s
+[2025-07-25 05:13:46] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win128
+[2025-07-25 05:14:06] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win512 in 34.64s
+[2025-07-25 05:14:07] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win1024
+[2025-07-25 05:14:09] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win2048 in 23.27s
+[2025-07-25 05:14:09] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win2048
+[2025-07-25 05:14:12] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_-05dB_win2048 in 33.90s
+[2025-07-25 05:14:13] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win64
+[2025-07-25 05:14:19] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win128 in 33.74s
+[2025-07-25 05:14:20] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win256
+[2025-07-25 05:14:22] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win64 in 9.22s
+[2025-07-25 05:14:22] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win64
+[2025-07-25 05:14:23] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win1024 in 16.47s
+[2025-07-25 05:14:23] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win1024
+[2025-07-25 05:14:30] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win256 in 10.13s
+[2025-07-25 05:14:30] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win256
+[2025-07-25 05:14:44] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win2048 in 35.64s
+[2025-07-25 05:14:46] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win64
+[2025-07-25 05:14:55] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win64 in 8.94s
+[2025-07-25 05:14:55] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win64
+[2025-07-25 05:14:59] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win1024 in 35.50s
+[2025-07-25 05:14:59] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win64 in 36.29s
+[2025-07-25 05:15:00] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win2048
+[2025-07-25 05:15:00] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win128
+[2025-07-25 05:15:05] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win256 in 34.97s
+[2025-07-25 05:15:06] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win512
+[2025-07-25 05:15:09] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win128 in 9.18s
+[2025-07-25 05:15:09] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win128
+[2025-07-25 05:15:18] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win512 in 11.84s
+[2025-07-25 05:15:18] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win512
+[2025-07-25 05:15:24] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win2048 in 24.58s
+[2025-07-25 05:15:24] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win2048
+[2025-07-25 05:15:29] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win64 in 34.08s
+[2025-07-25 05:15:30] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win128
+[2025-07-25 05:15:39] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win128 in 9.33s
+[2025-07-25 05:15:39] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win128
+[2025-07-25 05:15:43] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win128 in 34.60s
+[2025-07-25 05:15:44] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win256
+[2025-07-25 05:15:54] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win512 in 35.64s
+[2025-07-25 05:15:54] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+00dB_win256 in 9.69s
+[2025-07-25 05:15:54] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win256
+[2025-07-25 05:15:55] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win1024
+[2025-07-25 05:15:59] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win2048 in 34.91s
+[2025-07-25 05:16:00] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win64
+[2025-07-25 05:16:09] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win64 in 9.10s
+[2025-07-25 05:16:09] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win64
+[2025-07-25 05:16:13] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+05dB_win1024 in 17.59s
+[2025-07-25 05:16:13] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win1024
+[2025-07-25 05:16:13] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win128 in 34.45s
+[2025-07-25 05:16:14] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win256
+[2025-07-25 05:16:25] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win256 in 10.29s
+[2025-07-25 05:16:25] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win256
+[2025-07-25 05:16:29] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+00dB_win256 in 35.32s
+[2025-07-25 05:16:30] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win512
+[2025-07-25 05:16:43] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win512 in 12.74s
+[2025-07-25 05:16:43] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win512
+[2025-07-25 05:16:44] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win64 in 35.03s
+[2025-07-25 05:16:45] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win128
+[2025-07-25 05:16:48] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+05dB_win1024 in 35.35s
+[2025-07-25 05:16:49] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win2048
+[2025-07-25 05:16:55] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win128 in 9.46s
+[2025-07-25 05:16:55] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win128
+[2025-07-25 05:16:59] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win256 in 34.09s
+[2025-07-25 05:17:00] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win512
+[2025-07-25 05:17:14] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win512 in 14.27s
+[2025-07-25 05:17:14] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win512
+[2025-07-25 05:17:14] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win2048 in 25.06s
+[2025-07-25 05:17:14] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win2048
+[2025-07-25 05:17:18] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win512 in 34.84s
+[2025-07-25 05:17:19] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win1024
+[2025-07-25 05:17:29] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win128 in 34.60s
+[2025-07-25 05:17:30] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win256
+[2025-07-25 05:17:36] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win1024 in 17.07s
+[2025-07-25 05:17:36] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win1024
+[2025-07-25 05:17:41] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win256 in 10.51s
+[2025-07-25 05:17:41] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win256
+[2025-07-25 05:17:49] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win512 in 35.30s
+[2025-07-25 05:17:49] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win2048 in 35.27s
+[2025-07-25 05:17:50] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win1024
+[2025-07-25 05:17:50] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win64
+[2025-07-25 05:17:59] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win64 in 8.79s
+[2025-07-25 05:17:59] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win64
+[2025-07-25 05:18:06] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win1024 in 15.67s
+[2025-07-25 05:18:06] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win1024
+[2025-07-25 05:18:11] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win1024 in 34.75s
+[2025-07-25 05:18:12] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win2048
+[2025-07-25 05:18:15] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win256 in 34.18s
+[2025-07-25 05:18:16] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win512
+[2025-07-25 05:18:28] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win512 in 11.74s
+[2025-07-25 05:18:28] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win512
+[2025-07-25 05:18:32] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win64 in 33.44s
+[2025-07-25 05:18:33] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win128
+[2025-07-25 05:18:38] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+10dB_win2048 in 26.37s
+[2025-07-25 05:18:38] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win2048
+[2025-07-25 05:18:39] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win1024 in 33.59s
+[2025-07-25 05:18:40] [SpawnPoolWorker-21] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win2048
+[2025-07-25 05:18:43] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win128 in 9.51s
+[2025-07-25 05:18:43] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win128
+[2025-07-25 05:19:02] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win512 in 34.30s
+[2025-07-25 05:19:03] [SpawnPoolWorker-23] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win1024
+[2025-07-25 05:19:03] [SpawnPoolWorker-21] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win2048 in 23.28s
+[2025-07-25 05:19:03] [SpawnPoolWorker-21] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win2048
+[2025-07-25 05:19:12] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+10dB_win2048 in 34.24s
+[2025-07-25 05:19:13] [SpawnPoolWorker-22] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win64
+[2025-07-25 05:19:17] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win128 in 33.91s
+[2025-07-25 05:19:18] [SpawnPoolWorker-24] Start apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win256
+[2025-07-25 05:19:19] [SpawnPoolWorker-23] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win1024 in 16.05s
+[2025-07-25 05:19:19] [SpawnPoolWorker-23] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win1024
+[2025-07-25 05:19:22] [SpawnPoolWorker-22] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+15dB_win64 in 8.87s
+[2025-07-25 05:19:22] [SpawnPoolWorker-22] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win64
+[2025-07-25 05:19:28] [SpawnPoolWorker-24] Finished apply_noise_profile: pack1_5-6s | AWGN_Local_+20dB_win256 in 10.61s
+[2025-07-25 05:19:28] [SpawnPoolWorker-24] Start generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win256
+[2025-07-25 05:19:38] [SpawnPoolWorker-21] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win2048 in 34.83s
+[2025-07-25 05:19:53] [SpawnPoolWorker-23] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win1024 in 33.57s
+[2025-07-25 05:19:55] [SpawnPoolWorker-22] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+15dB_win64 in 32.93s
+[2025-07-25 05:20:00] [SpawnPoolWorker-24] Finished generate_spectrogram: pack1_5-6s | AWGN_Local_+20dB_win256 in 31.20s

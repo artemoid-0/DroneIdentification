@@ -1,0 +1,92 @@
+
+🔍 Train class distribution: Counter({0: 1248, 1: 1248, 2: 1248, 3: 1248, 4: 1248, 5: 1248, 6: 1248, 7: 1248, 8: 1248})
+🔍 Val class distribution: Counter({0: 36, 1: 36, 2: 36, 3: 36, 4: 36, 5: 36, 6: 36, 7: 36, 8: 36})
+Epoch 1/20 | Train Loss: 0.0572 | Val Loss: 0.0926 | Accuracy: 0.9722 | F1: 0.9720
+✅ Новая лучшая модель сохранена.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        36
+           1     1.0000    1.0000    1.0000        36
+           2     1.0000    0.8056    0.8923        36
+           3     0.8372    1.0000    0.9114        36
+           4     1.0000    1.0000    1.0000        36
+           5     1.0000    1.0000    1.0000        36
+           6     1.0000    1.0000    1.0000        36
+           7     0.9474    1.0000    0.9730        36
+           8     1.0000    0.9444    0.9714        36
+
+    accuracy                         0.9722       324
+   macro avg     0.9761    0.9722    0.9720       324
+weighted avg     0.9761    0.9722    0.9720       324
+
+Epoch 2/20 | Train Loss: 0.0031 | Val Loss: 0.2123 | Accuracy: 0.9506 | F1: 0.9527
+⏳ EarlyStopping patience: 1/5
+Epoch 3/20 | Train Loss: 0.0004 | Val Loss: 0.0665 | Accuracy: 0.9815 | F1: 0.9816
+✅ Новая лучшая модель сохранена.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     0.9730    1.0000    0.9863        36
+           1     1.0000    1.0000    1.0000        36
+           2     1.0000    0.8889    0.9412        36
+           3     0.8780    1.0000    0.9351        36
+           4     1.0000    1.0000    1.0000        36
+           5     1.0000    1.0000    1.0000        36
+           6     1.0000    0.9444    0.9714        36
+           7     1.0000    1.0000    1.0000        36
+           8     1.0000    1.0000    1.0000        36
+
+    accuracy                         0.9815       324
+   macro avg     0.9834    0.9815    0.9816       324
+weighted avg     0.9834    0.9815    0.9816       324
+
+Epoch 4/20 | Train Loss: 0.0003 | Val Loss: 0.0655 | Accuracy: 0.9846 | F1: 0.9845
+✅ Новая лучшая модель сохранена.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     0.9730    1.0000    0.9863        36
+           1     1.0000    1.0000    1.0000        36
+           2     1.0000    0.8889    0.9412        36
+           3     0.9000    1.0000    0.9474        36
+           4     1.0000    1.0000    1.0000        36
+           5     1.0000    1.0000    1.0000        36
+           6     1.0000    0.9722    0.9859        36
+           7     1.0000    1.0000    1.0000        36
+           8     1.0000    1.0000    1.0000        36
+
+    accuracy                         0.9846       324
+   macro avg     0.9859    0.9846    0.9845       324
+weighted avg     0.9859    0.9846    0.9845       324
+
+Epoch 5/20 | Train Loss: 0.0115 | Val Loss: 0.1200 | Accuracy: 0.9599 | F1: 0.9604
+⏳ EarlyStopping patience: 1/5
+Epoch 6/20 | Train Loss: 0.0003 | Val Loss: 0.0830 | Accuracy: 0.9784 | F1: 0.9780
+⏳ EarlyStopping patience: 2/5
+Epoch 7/20 | Train Loss: 0.0002 | Val Loss: 0.0536 | Accuracy: 0.9846 | F1: 0.9845
+⏳ EarlyStopping patience: 3/5
+Epoch 8/20 | Train Loss: 0.0001 | Val Loss: 0.0812 | Accuracy: 0.9815 | F1: 0.9814
+⏳ EarlyStopping patience: 4/5
+Epoch 9/20 | Train Loss: 0.0001 | Val Loss: 0.0472 | Accuracy: 0.9846 | F1: 0.9845
+⏳ EarlyStopping patience: 5/5
+🛑 Early stopping.
+
+🧪 Оценка модели на тестовых данных:
+📄 Classification Report (Test):
+              precision    recall  f1-score   support
+
+           0     0.9655    1.0000    0.9825        84
+           1     1.0000    0.9167    0.9565        84
+           2     0.9383    0.9048    0.9212        84
+           3     0.8936    1.0000    0.9438        84
+           4     1.0000    0.9881    0.9940        84
+           5     1.0000    0.9643    0.9818        84
+           6     1.0000    0.9643    0.9818        84
+           7     0.9545    1.0000    0.9767        84
+           8     1.0000    1.0000    1.0000        84
+
+    accuracy                         0.9709       756
+   macro avg     0.9724    0.9709    0.9709       756
+weighted avg     0.9724    0.9709    0.9709       756
+
