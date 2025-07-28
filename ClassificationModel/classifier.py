@@ -18,25 +18,25 @@ from tqdm import tqdm
 
 IMG_SIZE = 224
 
-# === Обучающие трансформации ===
+# === Training transformations ===
 train_transform = transforms.Compose([
     transforms.Resize((IMG_SIZE, IMG_SIZE)),
-    #transforms.ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1),
-    #transforms.RandomAffine(degrees=5, translate=(0.05, 0.05), scale=(0.95, 1.05)),
+    transforms.ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1),
+    transforms.RandomAffine(degrees=5, translate=(0.05, 0.05), scale=(0.95, 1.05)),
     transforms.ToTensor(),
-    #transforms.Lambda(lambda img: img + 0.01 * torch.randn_like(img)),  # Лёгкий шум
-    #transforms.RandomErasing(p=0.3, scale=(0.01, 0.05), ratio=(0.3, 3.3), value=0),
+    transforms.Lambda(lambda img: img + 0.01 * torch.randn_like(img)),  # Light noise
+    transforms.RandomErasing(p=0.3, scale=(0.01, 0.05), ratio=(0.3, 3.3), value=0),
     transforms.Normalize(mean=[0.5], std=[0.5])
 ])
 
-# === Валидационные/тестовые трансформации ===
-REALISTIC_EVAL = True
+# === Validation/Test transformations ===
+REALISTIC_EVAL = False
 
 eval_transform = transforms.Compose([
     transforms.Resize((IMG_SIZE, IMG_SIZE)),
-    #transforms.ColorJitter(brightness=0.05, contrast=0.05) if REALISTIC_EVAL else transforms.Lambda(lambda x: x),
+    transforms.ColorJitter(brightness=0.05, contrast=0.05) if REALISTIC_EVAL else transforms.Lambda(lambda x: x),
     transforms.ToTensor(),
-    #transforms.Lambda(lambda img: img + 0.005 * torch.randn_like(img) if REALISTIC_EVAL else img),
+    transforms.Lambda(lambda img: img + 0.005 * torch.randn_like(img) if REALISTIC_EVAL else img),
     transforms.Normalize(mean=[0.5], std=[0.5])
 ])
 
@@ -67,21 +67,21 @@ def get_next_run_dir(base_dir):
 
 def plot_confusion_matrix(y_true, y_pred, labels, save_path):
     cm = confusion_matrix(y_true, y_pred)
-    fig, ax = plt.subplots(figsize=(8, 6))  # увеличим немного фигуру
+    fig, ax = plt.subplots(figsize=(8, 6))  # Slightly increase the figure size
     im = ax.imshow(cm, cmap="Blues")
 
-    # Установка тиков и подписей
+    # Set ticks and labels
     ax.set_xticks(np.arange(len(labels)))
     ax.set_yticks(np.arange(len(labels)))
-    ax.set_xticklabels(labels, rotation=90, ha="right")  # Поворот и выравнивание
+    ax.set_xticklabels(labels, rotation=90, ha="right")  # Rotate and align
     ax.set_yticklabels(labels)
 
-    # Подписи и заголовок
+    # Labels and title
     plt.xlabel("Predicted")
     plt.ylabel("True")
     plt.title("Confusion Matrix")
 
-    # Отображение чисел в ячейках
+    # Display numbers inside the cells
     for i in range(len(labels)):
         for j in range(len(labels)):
             ax.text(j, i, cm[i, j], ha="center", va="center", color="black")
@@ -95,7 +95,7 @@ def plot_confusion_matrix(y_true, y_pred, labels, save_path):
 
 def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=20, batch_size=16,
                      lr=1e-4, patience=5, save_base="training_output", save_path=None, resume=False):
-    # === Повторяемость ===
+    # === Reproducibility ===
     torch.manual_seed(42)
     np.random.seed(42)
     random.seed(42)
@@ -133,7 +133,7 @@ def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=
     model_save_path = os.path.join(save_path, "best_model.pth")
     if resume and os.path.exists(model_save_path):
         model.load_state_dict(torch.load(model_save_path))
-        log(f"🔄 Продолжаем обучение из {model_save_path}")
+        log(f"🔄 Continuing training from {model_save_path}")
 
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=lr)
@@ -157,7 +157,7 @@ def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=
             total_loss += loss.item()
             train_bar.set_postfix(loss=loss.item())
 
-        # === Валидация ===
+        # === Validation ===
         model.eval()
         val_loss = 0.0
         y_true, y_pred = [], []
@@ -183,7 +183,7 @@ def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=
             best_f1 = f1
             patience_counter = 0
             torch.save(model.state_dict(), model_save_path)
-            log("✅ Новая лучшая модель сохранена.")
+            log("✅ New best model saved.")
             log("📄 Classification Report (Validation):")
             log(classification_report_to_str(y_true, y_pred))
 
@@ -218,7 +218,7 @@ def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=
         json.dump(meta_info, f, indent=2)
 
     if test_loader:
-        log("\n🧪 Оценка модели на тестовых данных:")
+        log("\n🧪 Model evaluation on test data:")
         model.load_state_dict(torch.load(model_save_path))
         model.eval()
         y_true_test, y_pred_test = [], []

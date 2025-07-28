@@ -4,18 +4,20 @@ import random
 from collections import defaultdict
 from glob import glob
 
-# === Константы ===
+# === Constants ===
 NUM_CLASSES = 8
 TRAIN_SPLIT_RATIO = 0.8
-# TRAIN_SNR_RANGE = range(-10, 11, 5)
-TRAIN_SNR_RANGE = range(-5, 11, 5)
-VAL_SNR_VALUES = [-15, -10]
-TEST_SNR_VALUES = [-20, 20]
-TRAIN_LOC_WINS = [128, 256, 512, 1024]
+
+TRAIN_SNR_RANGE = [-15, 15, 20]
+VAL_SNR_VALUES = [-5, -10]
+TEST_SNR_VALUES = [-20, ]
+
+TRAIN_LOC_WINS = [256, 512]
 VAL_LOC_WINS = [64, 256]
 TEST_LOC_WINS = [64, 1024, 2048]
 
-# === Автовыбор папок ===
+
+# === Auto-selection of folders ===
 def auto_select_folders(all_folders):
     train_folders = []
     val_folders = []
@@ -58,9 +60,10 @@ def auto_select_folders(all_folders):
     return sorted(train_folders), sorted(val_folders), sorted(test_folders)
 
 
-# === Сбор сбалансированного датасета с разными источниками ===
-def collect_balanced_datasets(root_path, train_folders, val_folders, test_folders, train_ratio=0.8, val_ratio=0.166, test_ratio=0.034):
-    assert abs((train_ratio + val_ratio + test_ratio) - 1.0) < 1e-6, "Сумма коэффициентов должна быть равна 1.0"
+# === Collecting a balanced dataset from different sources ===
+def collect_balanced_datasets(root_path, train_folders, val_folders, test_folders, train_ratio=0.8, val_ratio=0.166,
+                              test_ratio=0.034):
+    assert abs((train_ratio + val_ratio + test_ratio) - 1.0) < 1e-6, "The sum of the ratios must equal 1.0"
 
     drone_class_dirs = sorted([d for d in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, d))])
     class_to_idx = {name: idx for idx, name in enumerate(drone_class_dirs)}
@@ -104,7 +107,7 @@ def collect_balanced_datasets(root_path, train_folders, val_folders, test_folder
 
     for drone in drone_class_dirs:
         class_idx = class_to_idx[drone]
-        print(f"\n📦 Модель дрона: {drone} (класс {class_idx})")
+        print(f"\n📦 Drone model: {drone} (class {class_idx})")
 
         all_val_candidates = []
         for folder in val_folders:
@@ -116,7 +119,7 @@ def collect_balanced_datasets(root_path, train_folders, val_folders, test_folder
 
         all_filenames = list(set(os.path.basename(p) for p in all_val_candidates + all_test_candidates))
         if len(all_filenames) < val_count + test_count:
-            print(f"  ⚠️ Недостаточно уникальных изображений ({len(all_filenames)} < {val_count + test_count})")
+            print(f"  ⚠️ Not enough unique images ({len(all_filenames)} < {val_count + test_count})")
             continue
 
         reserved = random.sample(all_filenames, val_count + test_count)
@@ -151,9 +154,8 @@ def collect_balanced_datasets(root_path, train_folders, val_folders, test_folder
                 distribution_summary[drone]['train'] += 1
                 print(f"\033[92m🟩 {os.path.basename(path):<35} -> TRAIN ({folder})\033[0m")
 
-    print("\n📊 Итоговое распределение по классам:")
+    print("\n📊 Final distribution by class:")
     for drone, dist in distribution_summary.items():
         print(f"  {drone:<25} | TRAIN: {dist['train']:>3} | VAL: {dist['val']:>3} | TEST: {dist['test']:>3}")
 
     return train_pairs, val_pairs, test_pairs, class_to_idx
-
