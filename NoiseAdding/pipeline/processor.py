@@ -1,3 +1,5 @@
+# rfuav/NoiseAdding/pipeline/processor.py
+
 from NoiseAdding.noise.cpu import CPUProcessor
 from NoiseAdding.noise.gpu import GPUProcessor
 from NoiseAdding.noise.base import NoiseProcessor
@@ -52,16 +54,16 @@ class RFUAVPipeline:
             flat_data = np.ndarray(shape, dtype=np.float32, buffer=existing_shm.buf)
             complex_signal = flat_data[::2] + 1j * flat_data[1::2]
         except Exception as e:
-            print(f"[{pid}] ❌ Ошибка доступа к shared memory '{shm_name}': {e}")
+            print(f"[{pid}] ❌ Error accessing shared memory '{shm_name}': {e}")
             return
 
         save_dir = self.get_reorganized_path(save_root, relative_path, noise_tag)
         if self.processor.skip_if_exists(base_name, save_dir, complex_signal):
-            print(f"[{pid}] ⏩ {base_name} | {noise_tag}: уже существует, пропуск.")
+            print(f"[{pid}] ⏩ {base_name} | {noise_tag}: already exists, skipping.")
             existing_shm.close()
             return
 
-        print(f"[{pid}] 🔧 {base_name} | {noise_tag}: начало обработки.")
+        print(f"[{pid}] 🔧 {base_name} | {noise_tag}: processing started.")
         start_time = time.time()
 
         self.processor.apply_noise_and_generate(
@@ -69,7 +71,7 @@ class RFUAVPipeline:
         )
 
         existing_shm.close()
-        print(f"[{pid}] ✅ {base_name} | {noise_tag}: завершено за {time.time() - start_time:.2f} сек")
+        print(f"[{pid}] ✅ {base_name} | {noise_tag}: completed in {time.time() - start_time:.2f} sec")
 
     def process_single_iq(self, iq_path, relative_path, save_root, save_noisy):
         base_name = os.path.splitext(os.path.basename(iq_path))[0]
@@ -78,16 +80,16 @@ class RFUAVPipeline:
             raw_data = np.fromfile(iq_path, dtype=np.float32)
             complex_signal = raw_data[::2] + 1j * raw_data[1::2]
         except Exception as e:
-            print(f"⚠️ Ошибка при чтении {iq_path}: {e}")
+            print(f"⚠️ Error reading {iq_path}: {e}")
             return
 
-        print(f"📂 Оригинал: {relative_path}")
+        print(f"📂 Original: {relative_path}")
         original_dir = self.get_reorganized_path(save_root, relative_path, "original")
         start_original = time.time()
         self.processor.generate_spectrogram(complex_signal, original_dir, base_name)
-        print(f"📷 Оригинал {base_name} сохранён за {time.time() - start_original:.2f} сек")
+        print(f"📷 Original {base_name} saved in {time.time() - start_original:.2f} sec")
 
-        # === Подготовка shared memory ===
+        # === Preparing shared memory ===
         stacked = np.empty((complex_signal.size * 2,), dtype=np.float32)
         stacked[::2] = complex_signal.real
         stacked[1::2] = complex_signal.imag
@@ -96,7 +98,7 @@ class RFUAVPipeline:
         shm_buffer = np.ndarray(stacked.shape, dtype=np.float32, buffer=shm.buf)
         np.copyto(shm_buffer, stacked)
 
-        # === Подготовка задач ===
+        # === Preparing tasks ===
         noise_configs = self.processor.get_noise_configs()
         tasks = [
             (
@@ -108,7 +110,7 @@ class RFUAVPipeline:
             for noise_tag, noise_params in noise_configs
         ]
 
-        # === Параллельная обработка ===
+        # === Parallel processing ===
         with Pool(processes=self.num_processes) as pool:
             pool.map(self.handle_noise_task, tasks)
 
@@ -121,7 +123,7 @@ class RFUAVPipeline:
                 if file.lower().endswith(".iq"):
                     full_path = os.path.join(subdir, file)
                     relative_path = os.path.relpath(full_path, root_path)
-                    print(f"🔹 Обработка файла: {relative_path}")
+                    print(f"🔹 Processing file: {relative_path}")
                     self.process_single_iq(full_path, relative_path, save_root, save_noisy)
 
         gc.collect()
