@@ -1,0 +1,114 @@
+
+🔍 Train class distribution: Counter({0: 624, 1: 624, 2: 624, 3: 624, 4: 624, 5: 624, 6: 624, 7: 624, 8: 624})
+🔍 Val class distribution: Counter({0: 27, 1: 27, 2: 27, 3: 27, 4: 27, 5: 27, 6: 27, 7: 27, 8: 27})
+🔄 Continuing training from D:\Artem_13.04.2024\Politeh\Other_projects\DroneIdentification\ClassificationModel\..\training_output\run_001 (moderate train (5 - 20), moderate val (-5), hard test (-15))\best_model.pth
+Epoch 1/20 | Train Loss: 0.0105 | Val Loss: 0.0608 | Accuracy: 0.9671 | F1: 0.9666
+✅ New best model saved.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     0.9310    1.0000    0.9643        27
+           1     1.0000    1.0000    1.0000        27
+           2     1.0000    0.8519    0.9200        27
+           3     1.0000    1.0000    1.0000        27
+           4     1.0000    0.8519    0.9200        27
+           5     1.0000    1.0000    1.0000        27
+           6     0.8710    1.0000    0.9310        27
+           7     0.9310    1.0000    0.9643        27
+           8     1.0000    1.0000    1.0000        27
+
+    accuracy                         0.9671       243
+   macro avg     0.9703    0.9671    0.9666       243
+weighted avg     0.9703    0.9671    0.9666       243
+
+Epoch 2/20 | Train Loss: 0.0035 | Val Loss: 0.1601 | Accuracy: 0.9506 | F1: 0.9523
+⏳ EarlyStopping patience: 1/5
+Epoch 3/20 | Train Loss: 0.0033 | Val Loss: 0.1171 | Accuracy: 0.9630 | F1: 0.9642
+⏳ EarlyStopping patience: 2/5
+Epoch 4/20 | Train Loss: 0.0008 | Val Loss: 0.0861 | Accuracy: 0.9671 | F1: 0.9667
+✅ New best model saved.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     0.9000    1.0000    0.9474        27
+           1     1.0000    1.0000    1.0000        27
+           2     1.0000    0.9630    0.9811        27
+           3     1.0000    0.9630    0.9811        27
+           4     1.0000    0.7778    0.8750        27
+           5     1.0000    1.0000    1.0000        27
+           6     1.0000    1.0000    1.0000        27
+           7     0.8438    1.0000    0.9153        27
+           8     1.0000    1.0000    1.0000        27
+
+    accuracy                         0.9671       243
+   macro avg     0.9715    0.9671    0.9667       243
+weighted avg     0.9715    0.9671    0.9667       243
+
+Epoch 5/20 | Train Loss: 0.0107 | Val Loss: 0.0080 | Accuracy: 0.9959 | F1: 0.9959
+✅ New best model saved.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        27
+           1     1.0000    1.0000    1.0000        27
+           2     1.0000    1.0000    1.0000        27
+           3     1.0000    1.0000    1.0000        27
+           4     1.0000    0.9630    0.9811        27
+           5     1.0000    1.0000    1.0000        27
+           6     1.0000    1.0000    1.0000        27
+           7     0.9643    1.0000    0.9818        27
+           8     1.0000    1.0000    1.0000        27
+
+    accuracy                         0.9959       243
+   macro avg     0.9960    0.9959    0.9959       243
+weighted avg     0.9960    0.9959    0.9959       243
+
+Epoch 6/20 | Train Loss: 0.0011 | Val Loss: 0.0007 | Accuracy: 1.0000 | F1: 1.0000
+✅ New best model saved.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000        27
+           1     1.0000    1.0000    1.0000        27
+           2     1.0000    1.0000    1.0000        27
+           3     1.0000    1.0000    1.0000        27
+           4     1.0000    1.0000    1.0000        27
+           5     1.0000    1.0000    1.0000        27
+           6     1.0000    1.0000    1.0000        27
+           7     1.0000    1.0000    1.0000        27
+           8     1.0000    1.0000    1.0000        27
+
+    accuracy                         1.0000       243
+   macro avg     1.0000    1.0000    1.0000       243
+weighted avg     1.0000    1.0000    1.0000       243
+
+Epoch 7/20 | Train Loss: 0.0004 | Val Loss: 0.0001 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 1/5
+Epoch 8/20 | Train Loss: 0.0039 | Val Loss: 0.1471 | Accuracy: 0.9547 | F1: 0.9541
+⏳ EarlyStopping patience: 2/5
+Epoch 9/20 | Train Loss: 0.0046 | Val Loss: 0.0087 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 3/5
+Epoch 10/20 | Train Loss: 0.0026 | Val Loss: 0.0257 | Accuracy: 0.9918 | F1: 0.9918
+⏳ EarlyStopping patience: 4/5
+Epoch 11/20 | Train Loss: 0.0032 | Val Loss: 0.3070 | Accuracy: 0.9424 | F1: 0.9415
+⏳ EarlyStopping patience: 5/5
+🛑 Early stopping.
+
+🧪 Model evaluation on test data:
+📄 Classification Report (Test):
+              precision    recall  f1-score   support
+
+           0     0.8091    0.9889    0.8900        90
+           1     1.0000    0.7333    0.8462        90
+           2     1.0000    0.9333    0.9655        90
+           3     1.0000    0.7222    0.8387        90
+           4     1.0000    0.7444    0.8535        90
+           5     0.6164    1.0000    0.7627        90
+           6     0.7016    0.9667    0.8131        90
+           7     0.9651    0.9222    0.9432        90
+           8     1.0000    0.6889    0.8158        90
+
+    accuracy                         0.8556       810
+   macro avg     0.8991    0.8556    0.8587       810
+weighted avg     0.8991    0.8556    0.8587       810
+

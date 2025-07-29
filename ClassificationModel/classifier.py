@@ -104,7 +104,8 @@ def train_classifier(train_data, val_data, class_to_idx, test_data=None, epochs=
 
     if save_path is None:
         save_path = get_next_run_dir(save_base)
-    os.makedirs(save_path, exist_ok=True)
+    else:
+        os.makedirs(save_path, exist_ok=True)
 
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
     log_file_path = os.path.join(save_path, f"log_classifier.txt")

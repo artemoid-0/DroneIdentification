@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-07-28_07-25-26",
+  "epochs_trained": 7,
+  "best_f1": 1.0,
+  "train_distribution": {
+    "0": 480,
+    "1": 480,
+    "2": 480,
+    "3": 480,
+    "4": 480,
+    "5": 480,
+    "6": 480,
+    "7": 480,
+    "8": 480
+  },
+  "val_distribution": {
+    "0": 54,
+    "1": 54,
+    "2": 54,
+    "3": 54,
+    "4": 54,
+    "5": 54,
+    "6": 54,
+    "7": 54,
+    "8": 54
+  },
+  "class_to_idx": {
+    "DAUTEL EVO NANO": 0,
+    "DEVENTION DEVO": 1,
+    "DJI AVATA2": 2,
+    "DJI FPV COMBO": 3,
+    "DJI MAVIC3 PRO": 4,
+    "DJI MINI3": 5,
+    "DJI MINI4 PRO": 6,
+    "FLYSKY EL 18": 7,
+    "FLYSKY FS I6X": 8
+  },
+  "img_size": 224,
+  "batch_size": 16,
+  "learning_rate": 0.0001
+}

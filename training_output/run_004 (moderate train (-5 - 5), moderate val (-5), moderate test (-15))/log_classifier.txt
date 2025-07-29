@@ -1,0 +1,52 @@
+
+🔍 Train class distribution: Counter({0: 336, 1: 336, 2: 336, 3: 336, 4: 336, 5: 336, 6: 336, 7: 336, 8: 336})
+🔍 Val class distribution: Counter({0: 9, 1: 9, 2: 9, 3: 9, 4: 9, 5: 9, 6: 9, 7: 9, 8: 9})
+Epoch 1/20 | Train Loss: 0.2231 | Val Loss: 0.0027 | Accuracy: 1.0000 | F1: 1.0000
+✅ New best model saved.
+📄 Classification Report (Validation):
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000         9
+           1     1.0000    1.0000    1.0000         9
+           2     1.0000    1.0000    1.0000         9
+           3     1.0000    1.0000    1.0000         9
+           4     1.0000    1.0000    1.0000         9
+           5     1.0000    1.0000    1.0000         9
+           6     1.0000    1.0000    1.0000         9
+           7     1.0000    1.0000    1.0000         9
+           8     1.0000    1.0000    1.0000         9
+
+    accuracy                         1.0000        81
+   macro avg     1.0000    1.0000    1.0000        81
+weighted avg     1.0000    1.0000    1.0000        81
+
+Epoch 2/20 | Train Loss: 0.0224 | Val Loss: 0.0005 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 1/5
+Epoch 3/20 | Train Loss: 0.0202 | Val Loss: 0.0009 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 2/5
+Epoch 4/20 | Train Loss: 0.0127 | Val Loss: 0.0002 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 3/5
+Epoch 5/20 | Train Loss: 0.0035 | Val Loss: 0.0002 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 4/5
+Epoch 6/20 | Train Loss: 0.0030 | Val Loss: 0.0002 | Accuracy: 1.0000 | F1: 1.0000
+⏳ EarlyStopping patience: 5/5
+🛑 Early stopping.
+
+🧪 Model evaluation on test data:
+📄 Classification Report (Test):
+              precision    recall  f1-score   support
+
+           0     0.9375    0.8333    0.8824        90
+           1     0.8558    0.9889    0.9175        90
+           2     1.0000    0.7667    0.8679        90
+           3     0.9375    1.0000    0.9677        90
+           4     1.0000    0.9778    0.9888        90
+           5     0.8224    0.9778    0.8934        90
+           6     0.9444    0.9444    0.9444        90
+           7     0.9885    0.9556    0.9718        90
+           8     1.0000    0.9889    0.9944        90
+
+    accuracy                         0.9370       810
+   macro avg     0.9429    0.9370    0.9365       810
+weighted avg     0.9429    0.9370    0.9365       810
+

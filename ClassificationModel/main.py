@@ -6,11 +6,13 @@ import os
 
 def main():
     # === Paths ===
-    PROJECT_ROOT = os.path.dirname(__file__)
-    DATASET_PATH = os.path.join(PROJECT_ROOT, "..", "SAVE_PATH", "MANY_NOISES")
+    PROJECT_ROOT = os.path.join(os.path.dirname(__file__), "..")
+    os.chdir(PROJECT_ROOT)
+    print("Current working directory is: ", os.getcwd())
+    DATASET_PATH = os.path.join(PROJECT_ROOT, "SAVE_PATH", "MANY_NOISES")
     RESUME = True
-    SAVE_PATH = os.path.join(PROJECT_ROOT, "..", "training_output",
-                             "run_005 (diverse train (-15, 15, 20), moderate val (-5, -10), hard test (-20))")
+    SAVE_PATH = os.path.join(PROJECT_ROOT, "training_output",
+                             "run_001 (moderate train (5 - 20), moderate val (-5), hard test (-15))")
 
     print("📂 DATASET_PATH:", DATASET_PATH)
     print("💾 SAVE_PATH:", SAVE_PATH)
