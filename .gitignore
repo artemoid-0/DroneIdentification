@@ -3,3 +3,5 @@
 /.idea/
 *.pth
 /temp/
+__pycache__/
+*.pyc
